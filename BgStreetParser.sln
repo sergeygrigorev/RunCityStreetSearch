@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BgStreetParser", "BgStreetParser\BgStreetParser.csproj", "{97CE0193-BCC5-455F-8E0B-A40C32F05087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{BB8AC3ED-458D-4F12-B70E-D3BF4459F6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CE0193-BCC5-455F-8E0B-A40C32F05087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CE0193-BCC5-455F-8E0B-A40C32F05087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CE0193-BCC5-455F-8E0B-A40C32F05087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CE0193-BCC5-455F-8E0B-A40C32F05087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8AC3ED-458D-4F12-B70E-D3BF4459F6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8AC3ED-458D-4F12-B70E-D3BF4459F6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8AC3ED-458D-4F12-B70E-D3BF4459F6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8AC3ED-458D-4F12-B70E-D3BF4459F6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
