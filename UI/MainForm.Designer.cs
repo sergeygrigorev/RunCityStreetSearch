@@ -33,25 +33,25 @@
 			this.checkBox1 = new System.Windows.Forms.CheckBox();
 			this.dataGridView1 = new System.Windows.Forms.DataGridView();
 			this.BigTitle = new System.Windows.Forms.DataGridViewTextBoxColumn();
-			this.District = new System.Windows.Forms.DataGridViewTextBoxColumn();
-			this.Distance = new System.Windows.Forms.DataGridViewTextBoxColumn();
-			this.comboBox1 = new System.Windows.Forms.ComboBox();
-			this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-			this.cboDistricts = new System.Windows.Forms.ComboBox();
-			this.txtCoord = new System.Windows.Forms.TextBox();
-			this.numProximitySensitivity = new System.Windows.Forms.NumericUpDown();
 			this.categoryDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.urlDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+			this.District = new System.Windows.Forms.DataGridViewTextBoxColumn();
+			this.Distance = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.streetBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
+			this.comboBox1 = new System.Windows.Forms.ComboBox();
+			this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+			this.numProximitySensitivity = new System.Windows.Forms.NumericUpDown();
+			this.cboDistricts = new System.Windows.Forms.ComboBox();
+			this.txtCoord = new System.Windows.Forms.TextBox();
 			this.streetBindingSource = new System.Windows.Forms.BindingSource(this.components);
 			this.streetBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
 			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource2)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
 			this.splitContainer1.Panel1.SuspendLayout();
 			this.splitContainer1.Panel2.SuspendLayout();
 			this.splitContainer1.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.numProximitySensitivity)).BeginInit();
-			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource2)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource1)).BeginInit();
 			this.SuspendLayout();
@@ -98,6 +98,7 @@
 			this.dataGridView1.Size = new System.Drawing.Size(1034, 491);
 			this.dataGridView1.TabIndex = 3;
 			this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+		
 			// 
 			// BigTitle
 			// 
@@ -106,6 +107,22 @@
 			this.BigTitle.Name = "BigTitle";
 			this.BigTitle.ReadOnly = true;
 			this.BigTitle.Width = 600;
+			// 
+			// categoryDataGridViewTextBoxColumn
+			// 
+			this.categoryDataGridViewTextBoxColumn.DataPropertyName = "Category";
+			this.categoryDataGridViewTextBoxColumn.HeaderText = "Category";
+			this.categoryDataGridViewTextBoxColumn.Name = "categoryDataGridViewTextBoxColumn";
+			this.categoryDataGridViewTextBoxColumn.ReadOnly = true;
+			this.categoryDataGridViewTextBoxColumn.Width = 80;
+			// 
+			// urlDataGridViewTextBoxColumn
+			// 
+			this.urlDataGridViewTextBoxColumn.DataPropertyName = "Url";
+			this.urlDataGridViewTextBoxColumn.HeaderText = "Url";
+			this.urlDataGridViewTextBoxColumn.Name = "urlDataGridViewTextBoxColumn";
+			this.urlDataGridViewTextBoxColumn.ReadOnly = true;
+			this.urlDataGridViewTextBoxColumn.Width = 280;
 			// 
 			// District
 			// 
@@ -120,6 +137,10 @@
 			this.Distance.HeaderText = "Distance";
 			this.Distance.Name = "Distance";
 			this.Distance.ReadOnly = true;
+			// 
+			// streetBindingSource2
+			// 
+			this.streetBindingSource2.DataSource = typeof(BgStreetParser.Street);
 			// 
 			// comboBox1
 			// 
@@ -154,6 +175,19 @@
 			this.splitContainer1.SplitterDistance = 117;
 			this.splitContainer1.TabIndex = 5;
 			// 
+			// numProximitySensitivity
+			// 
+			this.numProximitySensitivity.Location = new System.Drawing.Point(577, 58);
+			this.numProximitySensitivity.Maximum = new decimal(new int[] {
+            1000000,
+            0,
+            0,
+            0});
+			this.numProximitySensitivity.Name = "numProximitySensitivity";
+			this.numProximitySensitivity.Size = new System.Drawing.Size(120, 20);
+			this.numProximitySensitivity.TabIndex = 7;
+			this.numProximitySensitivity.ValueChanged += new System.EventHandler(this.numProximitySensitivity_ValueChanged);
+			// 
 			// cboDistricts
 			// 
 			this.cboDistricts.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
@@ -175,39 +209,6 @@
 			this.txtCoord.TabIndex = 5;
 			this.txtCoord.TextChanged += new System.EventHandler(this.txtCoord_TextChanged);
 			// 
-			// numProximitySensitivity
-			// 
-			this.numProximitySensitivity.Location = new System.Drawing.Point(577, 58);
-			this.numProximitySensitivity.Maximum = new decimal(new int[] {
-            1000000,
-            0,
-            0,
-            0});
-			this.numProximitySensitivity.Name = "numProximitySensitivity";
-			this.numProximitySensitivity.Size = new System.Drawing.Size(120, 20);
-			this.numProximitySensitivity.TabIndex = 7;
-			this.numProximitySensitivity.ValueChanged += new System.EventHandler(this.numProximitySensitivity_ValueChanged);
-			// 
-			// categoryDataGridViewTextBoxColumn
-			// 
-			this.categoryDataGridViewTextBoxColumn.DataPropertyName = "Category";
-			this.categoryDataGridViewTextBoxColumn.HeaderText = "Category";
-			this.categoryDataGridViewTextBoxColumn.Name = "categoryDataGridViewTextBoxColumn";
-			this.categoryDataGridViewTextBoxColumn.ReadOnly = true;
-			this.categoryDataGridViewTextBoxColumn.Width = 80;
-			// 
-			// urlDataGridViewTextBoxColumn
-			// 
-			this.urlDataGridViewTextBoxColumn.DataPropertyName = "Url";
-			this.urlDataGridViewTextBoxColumn.HeaderText = "Url";
-			this.urlDataGridViewTextBoxColumn.Name = "urlDataGridViewTextBoxColumn";
-			this.urlDataGridViewTextBoxColumn.ReadOnly = true;
-			this.urlDataGridViewTextBoxColumn.Width = 280;
-			// 
-			// streetBindingSource2
-			// 
-			this.streetBindingSource2.DataSource = typeof(BgStreetParser.Street);
-			// 
 			// streetBindingSource
 			// 
 			this.streetBindingSource.DataSource = typeof(BgStreetParser.Street);
@@ -225,13 +226,13 @@
 			this.Name = "MainForm";
 			this.Text = "Gugl Pro Edition";
 			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource2)).EndInit();
 			this.splitContainer1.Panel1.ResumeLayout(false);
 			this.splitContainer1.Panel1.PerformLayout();
 			this.splitContainer1.Panel2.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
 			this.splitContainer1.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.numProximitySensitivity)).EndInit();
-			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource2)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource1)).EndInit();
 			this.ResumeLayout(false);

@@ -134,6 +134,11 @@ namespace BgStreetParser
 			{
 				street.Coordinate = GeoUtil.ParseCoordinate(content.InnerText);
 			}
+
+			if (street.Coordinate == null)
+			{
+				street.Coordinate = GeoUtil.GetCoordinateByCode("Санкт-Петербург," + street.Title);
+			}
 		}
 	}
 
