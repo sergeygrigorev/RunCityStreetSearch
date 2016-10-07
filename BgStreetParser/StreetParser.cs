@@ -15,7 +15,7 @@ namespace BgStreetParser
 	internal class StreetParser
 	{
 		private const string UrlPrefix = "http://dic.academic.ru/dic.nsf/ruwiki/";
-
+		private static readonly string CacheDirectory = Path.Combine(Directory.GetCurrentDirectory(), "data");        
 		private string _currCategory = "";
 		private char _currLetter = ' ';
 
@@ -48,16 +48,12 @@ namespace BgStreetParser
 					throw new Exception("lalka");
 				}
 			}
-			//int i = 0;
-			//foreach (var street in streets)
-			//{
-			//	i++;
-			//	GetPreviousNames(street);
-			//	if (i == 3)
-			//		break;
-			//}
 
-			Parallel.ForEach(streets, new ParallelOptions { MaxDegreeOfParallelism = 100 }, GetPreviousNames);
+			if(!Directory.Exists(CacheDirectory))
+			{
+				Directory.CreateDirectory(CacheDirectory);
+			};
+			Parallel.ForEach(streets, new ParallelOptions { MaxDegreeOfParallelism = 100 }, ParseDetails);
 
 			return streets;
 		}
@@ -77,29 +73,10 @@ namespace BgStreetParser
 								 Url = p.SelectSingleNode("a") == null ? null : UrlPrefix + p.SelectSingleNode("a").GetAttributeValue("href", "zzz")
 							 }).ToList();
 
-			/*return new Street
-			{
-				Title = ul.InnerText,
-				Category = _currCategory,
-			};*/
-			if (true)
-			{
-				
-			}
-			else if (false)
-			{
-
-			}
-			else
-			{
-				
-			}
-			throw new Exception();
 			return streets;
-			throw new Exception();
 		}
 
-		private void GetPreviousNames(Street street)
+		private void ParseDetails(Street street)
 		{
 			if (street.Url == null)
 				return;
@@ -108,14 +85,24 @@ namespace BgStreetParser
 			HtmlDocument doc = null;
 
 			int retryCount = 10;
-			//RetrtAction
 			for (int i = 0; i < retryCount; i++)
 			{
 				try
 				{
-					var http = new WebClient {Encoding = Encoding.UTF8,};
+					var cacheFile = Path.Combine(CacheDirectory, street.Url.Substring(street.Url.LastIndexOf('/') + 1) + ".html");
+					string contents = null;
+					if (File.Exists(cacheFile))
+					{
+						contents = File.ReadAllText(cacheFile, Encoding.UTF8);
+					}
+					else
+					{
+						var http = new WebClient { Encoding = Encoding.UTF8, };                        
+						contents = http.DownloadString(street.Url);
+						File.WriteAllText(cacheFile, contents, Encoding.UTF8);
+					}
 					doc = new HtmlDocument();
-					doc.LoadHtml(http.DownloadString(street.Url));
+					doc.LoadHtml(contents);
 					break;
 				}
 				catch
@@ -130,12 +117,23 @@ namespace BgStreetParser
 
 
 			var content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""mw-content-text""]/table[1]/tr[./td[contains(.,'Прежние')]]/td[2]");
-			if (content == null)
-				return;
+			if (content != null)
+			{
+				var separators = new[] { "\n", ", " };
+				street.PreviousNames.AddRange(content.InnerText.Split(separators, StringSplitOptions.None));
+			}
 
-			var separators = new[] { "\n", ", " };
-			street.PreviousNames.AddRange(content.InnerText.Split(separators, StringSplitOptions.None));
+			content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""mw-content-text""]/table[1]/tr[./td[contains(.,'Район')]]/td[2]");
+			if (content != null)
+			{
+				street.District = content.InnerText;
+			}
 
+			content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""coordinates""]");
+			if (content != null)
+			{
+				street.Coordinate = GeoUtil.ParseCoordinate(content.InnerText);
+			}
 		}
 	}
 
