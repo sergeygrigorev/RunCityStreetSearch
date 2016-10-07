@@ -43,12 +43,11 @@
 			this.numProximitySensitivity = new System.Windows.Forms.NumericUpDown();
 			this.cboDistricts = new System.Windows.Forms.ComboBox();
 			this.txtCoord = new System.Windows.Forms.TextBox();
-<<<<<<< HEAD
+
 			this.categoryDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.urlDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.streetBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
-=======
->>>>>>> d6e912c45eec7478ad7f5bcba77d67c11a9b8492
+
 			this.streetBindingSource = new System.Windows.Forms.BindingSource(this.components);
 			this.streetBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
 			this.button1 = new System.Windows.Forms.Button();
@@ -217,7 +216,7 @@
 			this.txtCoord.TabIndex = 5;
 			this.txtCoord.TextChanged += new System.EventHandler(this.txtCoord_TextChanged);
 			// 
-<<<<<<< HEAD
+
 			// categoryDataGridViewTextBoxColumn
 			// 
 			this.categoryDataGridViewTextBoxColumn.DataPropertyName = "Category";
@@ -238,8 +237,7 @@
 			// 
 			this.streetBindingSource2.DataSource = typeof(BgStreetParser.Street);
 			// 
-=======
->>>>>>> d6e912c45eec7478ad7f5bcba77d67c11a9b8492
+
 			// streetBindingSource
 			// 
 			this.streetBindingSource.DataSource = typeof(BgStreetParser.Street);
