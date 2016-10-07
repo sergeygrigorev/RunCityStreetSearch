@@ -66,7 +66,7 @@ namespace UI
 
 		public override string ToString()
 		{
-			return (String.IsNullOrEmpty(Name)) ? (String.Format("{0:0.000000}, {1:0.000000}", Latitude, Longitude)) : (Name);
+			return String.Format(System.Globalization.CultureInfo.InvariantCulture, "{0:0.000000}, {1:0.000000}", Latitude, Longitude);
 		}
 	}
 }

@@ -186,7 +186,11 @@ namespace UI
 		{
 			MapForm form = new MapForm();
 			form.ShowDialog();
-			txtCoord.Text = form.GetCoords();
+			var c = form.GetCoords();
+			if (!string.IsNullOrEmpty(c))
+			{
+				txtCoord.Text = c;
+			}
 		}
 	}
 }
