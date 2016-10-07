@@ -42,7 +42,10 @@ namespace UI
 			comboBox1.Items.AddRange(Streets.Select(p => p.Category).Distinct().ToArray());
 			cboDistricts.Items.Add("Все");
 			cboDistricts.Items.AddRange(Streets.Where(p => !string.IsNullOrWhiteSpace(p.District))
-												.Select(p => p.District).Distinct().ToArray());
+												.Select(p => p.District)
+												.Distinct()
+												.OrderBy(p=>p)
+												.ToArray());
 		}
 
 		private void textBox1_TextChanged(object sender, EventArgs e)
