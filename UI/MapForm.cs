@@ -20,6 +20,7 @@ namespace UI
 		{
 			InitializeComponent();
 
+			browser.ScriptErrorsSuppressed = true;
 			browser.ScrollBarsEnabled = false;
 			browser.Navigate(String.Format(Template, Directory.GetCurrentDirectory(), browser.Size.Width, browser.Size.Height, search));
 		}
