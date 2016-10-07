@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Net;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using System.Globalization;
+using System.Xml;
 
 namespace BgStreetParser
 {
@@ -28,30 +30,54 @@ namespace BgStreetParser
 			return d * 1000; // meters
 		}
 
-		public static Coordinate ParseCoordinate(string geoExpr)
+		public static Coordinate ParseCoordinate(string geoExpr, CoordinateFormat format = CoordinateFormat.LatitudeThenLongtitude)
 		{
 			var latLongMatches = decimalRegex.Matches(geoExpr);
 
+			double firstValue = -1;
+			double secondValue = -1;
 			if (latLongMatches.Count > 1)
 			{
-				var latitude = double.Parse(latLongMatches[0].Value, CultureInfo.InvariantCulture);
-				var longtitude = double.Parse(latLongMatches[1].Value, CultureInfo.InvariantCulture);
-				if (latitude > 0 && longtitude > 0)
-				{
-					return new Coordinate { Latitude = latitude, Longtitude = longtitude };
-				}
+				firstValue = double.Parse(latLongMatches[0].Value, CultureInfo.InvariantCulture);
+				secondValue = double.Parse(latLongMatches[1].Value, CultureInfo.InvariantCulture);				
 			}
 
 			latLongMatches = degreeRegex.Matches(geoExpr);
 			if (latLongMatches.Count > 1)
 			{
-				var latitude = ParseGeoExpr(latLongMatches[0].Value);
-				var longtitude = ParseGeoExpr(latLongMatches[1].Value);
-				if (latitude > 0 && longtitude > 0)
+				firstValue = ParseGeoExpr(latLongMatches[0].Value);
+				secondValue = ParseGeoExpr(latLongMatches[1].Value);
+			}
+
+			if (firstValue > 0 && secondValue > 0)
+			{
+				if (format == CoordinateFormat.LatitudeThenLongtitude)
 				{
-					return new Coordinate { Latitude = latitude, Longtitude = longtitude };
+					return new Coordinate { Latitude = firstValue, Longtitude = secondValue };
+				}
+				else
+				{
+					return new Coordinate { Latitude = secondValue, Longtitude = firstValue };
 				}
 			}
+			return null;
+		}
+
+		public static Coordinate GetCoordinateByCode(string geoCode)
+		{
+			string yaMapsUrlTemplate = "https://geocode-maps.yandex.ru/1.x/?geocode={0}&lang=ru";
+			var http = new WebClient { Encoding = Encoding.UTF8, };
+			var contents = http.DownloadString(string.Format(yaMapsUrlTemplate, geoCode));
+
+			XmlDocument xmlDoc = new XmlDocument();
+			xmlDoc.LoadXml(contents);
+			
+			var points = xmlDoc.GetElementsByTagName("Point");
+			if (points.Count > 0)
+			{
+				return ParseCoordinate(points[0].OuterXml.ToString(), CoordinateFormat.LongtitudeThenLatitude);
+			}
+
 			return null;
 		}
 
@@ -63,5 +89,11 @@ namespace BgStreetParser
 			}
 			return 0;
 		}
+	}
+
+	public enum CoordinateFormat
+	{
+		LatitudeThenLongtitude = 1,
+		LongtitudeThenLatitude = 2,
 	}
 }

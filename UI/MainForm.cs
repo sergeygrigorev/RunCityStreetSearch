@@ -42,7 +42,10 @@ namespace UI
 			comboBox1.Items.AddRange(Streets.Select(p => p.Category).Distinct().ToArray());
 			cboDistricts.Items.Add("Все");
 			cboDistricts.Items.AddRange(Streets.Where(p => !string.IsNullOrWhiteSpace(p.District))
-												.Select(p => p.District).Distinct().ToArray());
+												.Select(p => p.District)
+												.Distinct()
+												.OrderBy(p=>p)
+												.ToArray());
 		}
 
 		private void textBox1_TextChanged(object sender, EventArgs e)
@@ -90,8 +93,8 @@ namespace UI
 				filtered = filtered.Where(p => p.District == districtFilter);
 
 			textBox1.BackColor = SystemColors.Window;
-			
-			dataGridView1.DataSource = filtered.ToList();
+
+			dataGridView1.DataSource = new SortableBindingList<Street>(filtered.ToList());
 
 			PaintGrid();
 		}
@@ -127,6 +130,11 @@ namespace UI
 		
 		private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
 		{
+			if (e.RowIndex < 0)
+			{
+				return;
+			}
+
 			var i = e.ColumnIndex;
 			if (i == 2)
 			{
