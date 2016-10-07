@@ -29,5 +29,15 @@ namespace BgStreetParser
 		public string Category { get; set; }
 		public char Letter { get; set; }
 		public List<string>  PreviousNames { get; set; }
+		public Coordinate Coordinate { get; set; }
+
+		public string District { get; set; }
+		public double Distance { get; set; }
+	}
+
+	public class Coordinate
+	{
+		public double Longtitude { get; set; }
+		public double Latitude { get; set; }
 	}
 }

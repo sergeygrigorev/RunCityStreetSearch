@@ -17,7 +17,7 @@ namespace UI
 	public partial class MainForm : Form
 	{
 		private List<Street> _streets;
-		private string _dbPath = @"D:\Dev\C#\BgStreetParser\BgStreetParser\bin\Debug\res.xml";
+		private string _dbPath = Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\BgStreetParser\bin\Debug\res.xml");
 
 		public List<Street> Streets
 		{
@@ -40,6 +40,9 @@ namespace UI
 			textBox1_TextChanged(null, EventArgs.Empty);
 			comboBox1.Items.Add("Все");
 			comboBox1.Items.AddRange(Streets.Select(p => p.Category).Distinct().ToArray());
+			cboDistricts.Items.Add("Все");
+			cboDistricts.Items.AddRange(Streets.Where(p => !string.IsNullOrWhiteSpace(p.District))
+												.Select(p => p.District).Distinct().ToArray());
 		}
 
 		private void textBox1_TextChanged(object sender, EventArgs e)
@@ -82,9 +85,39 @@ namespace UI
 			if (comboText != "" && comboText != "Все")
 				filtered = filtered.Where(p => p.Category == comboText);
 
+			var districtFilter = cboDistricts.SelectedItem as string ?? "";
+			if (districtFilter != "" && districtFilter != "Все")
+				filtered = filtered.Where(p => p.District == districtFilter);
+
 			textBox1.BackColor = SystemColors.Window;
 			
 			dataGridView1.DataSource = filtered.ToList();
+
+			PaintGrid();
+		}
+
+		private void PaintGrid()
+		{
+			if (numProximitySensitivity.Value > 0)
+			{
+				double sensitivity = (double)numProximitySensitivity.Value;
+				foreach (DataGridViewRow row in dataGridView1.Rows)
+				{
+					double dist;
+					double scale = 1;
+					if (Double.TryParse(row.Cells["Distance"].Value.ToString(), out dist) && dist > 0)
+					{
+						scale = Math.Min(1.0, Math.Max(0.0, 1.0 * dist / sensitivity));
+					}
+					row.DefaultCellStyle.BackColor = HeatMap(scale);
+				}
+			}
+		}
+
+		private Color HeatMap(double scale)
+		{
+			int b = (int) Math.Ceiling(scale * 255);
+			return Color.FromArgb(255, 255, b);
 		}
 
 		private bool StreetSelectionPredicate(Street s, Func<string, bool> filter, bool oldNames)
@@ -122,6 +155,29 @@ namespace UI
 		}
 
 		private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+		{
+			Refresh();
+		}
+
+		private void txtCoord_TextChanged(object sender, EventArgs e)
+		{
+			var coord = GeoUtil.ParseCoordinate(txtCoord.Text);
+			if (coord != null)
+			{
+				foreach (var s in _streets)
+				{
+					s.Distance = s.Coordinate != null ? GeoUtil.Distance(coord, s.Coordinate) : -1;
+				}
+			}
+			Refresh();
+		}
+
+		private void numProximitySensitivity_ValueChanged(object sender, EventArgs e)
+		{
+			Refresh();
+		}
+
+		private void cboDistricts_SelectedIndexChanged(object sender, EventArgs e)
 		{
 			Refresh();
 		}
