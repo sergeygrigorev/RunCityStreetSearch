@@ -37,14 +37,15 @@
 			this.Distance = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.comboBox1 = new System.Windows.Forms.ComboBox();
 			this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+			this.numProximitySensitivity = new System.Windows.Forms.NumericUpDown();
 			this.cboDistricts = new System.Windows.Forms.ComboBox();
 			this.txtCoord = new System.Windows.Forms.TextBox();
-			this.numProximitySensitivity = new System.Windows.Forms.NumericUpDown();
 			this.categoryDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.urlDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.streetBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
 			this.streetBindingSource = new System.Windows.Forms.BindingSource(this.components);
 			this.streetBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+			this.button1 = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
 			this.splitContainer1.Panel1.SuspendLayout();
@@ -140,6 +141,7 @@
 			// 
 			// splitContainer1.Panel1
 			// 
+			this.splitContainer1.Panel1.Controls.Add(this.button1);
 			this.splitContainer1.Panel1.Controls.Add(this.numProximitySensitivity);
 			this.splitContainer1.Panel1.Controls.Add(this.cboDistricts);
 			this.splitContainer1.Panel1.Controls.Add(this.txtCoord);
@@ -153,6 +155,19 @@
 			this.splitContainer1.Size = new System.Drawing.Size(1034, 612);
 			this.splitContainer1.SplitterDistance = 117;
 			this.splitContainer1.TabIndex = 5;
+			// 
+			// numProximitySensitivity
+			// 
+			this.numProximitySensitivity.Location = new System.Drawing.Point(577, 58);
+			this.numProximitySensitivity.Maximum = new decimal(new int[] {
+            1000000,
+            0,
+            0,
+            0});
+			this.numProximitySensitivity.Name = "numProximitySensitivity";
+			this.numProximitySensitivity.Size = new System.Drawing.Size(120, 20);
+			this.numProximitySensitivity.TabIndex = 7;
+			this.numProximitySensitivity.ValueChanged += new System.EventHandler(this.numProximitySensitivity_ValueChanged);
 			// 
 			// cboDistricts
 			// 
@@ -174,19 +189,6 @@
 			this.txtCoord.Size = new System.Drawing.Size(335, 48);
 			this.txtCoord.TabIndex = 5;
 			this.txtCoord.TextChanged += new System.EventHandler(this.txtCoord_TextChanged);
-			// 
-			// numProximitySensitivity
-			// 
-			this.numProximitySensitivity.Location = new System.Drawing.Point(577, 58);
-			this.numProximitySensitivity.Maximum = new decimal(new int[] {
-            1000000,
-            0,
-            0,
-            0});
-			this.numProximitySensitivity.Name = "numProximitySensitivity";
-			this.numProximitySensitivity.Size = new System.Drawing.Size(120, 20);
-			this.numProximitySensitivity.TabIndex = 7;
-			this.numProximitySensitivity.ValueChanged += new System.EventHandler(this.numProximitySensitivity_ValueChanged);
 			// 
 			// categoryDataGridViewTextBoxColumn
 			// 
@@ -215,6 +217,16 @@
 			// streetBindingSource1
 			// 
 			this.streetBindingSource1.DataSource = typeof(BgStreetParser.Street);
+			// 
+			// button1
+			// 
+			this.button1.Location = new System.Drawing.Point(577, 82);
+			this.button1.Name = "button1";
+			this.button1.Size = new System.Drawing.Size(120, 23);
+			this.button1.TabIndex = 8;
+			this.button1.Text = "MAP";
+			this.button1.UseVisualStyleBackColor = true;
+			this.button1.Click += new System.EventHandler(this.button1_Click);
 			// 
 			// MainForm
 			// 
@@ -256,6 +268,7 @@
 		private System.Windows.Forms.DataGridViewTextBoxColumn Distance;
 		private System.Windows.Forms.ComboBox cboDistricts;
 		private System.Windows.Forms.NumericUpDown numProximitySensitivity;
+		private System.Windows.Forms.Button button1;
 	}
 }
 

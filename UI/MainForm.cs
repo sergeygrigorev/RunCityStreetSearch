@@ -181,5 +181,12 @@ namespace UI
 		{
 			Refresh();
 		}
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+			MapForm form = new MapForm();
+			form.ShowDialog();
+			txtCoord.Text = form.GetCoords();
+		}
 	}
 }
