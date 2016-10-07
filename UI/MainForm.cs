@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -108,6 +109,7 @@ namespace UI
 				{
 					double dist;
 					double scale = 1;
+//if (Double.TryParse(row.Cells["Distance"].Value.ToString(), NumberStyles.AllowDecimalPoint, CultureInfo.InvariantCulture, out dist) && dist > 0)
 					if (Double.TryParse(row.Cells["Distance"].Value.ToString(), out dist) && dist > 0)
 					{
 						scale = Math.Min(1.0, Math.Max(0.0, 1.0 * dist / sensitivity));
@@ -188,6 +190,11 @@ namespace UI
 		private void cboDistricts_SelectedIndexChanged(object sender, EventArgs e)
 		{
 			Refresh();
+		}
+
+		private void dataGridView1_Sorted(object sender, EventArgs e)
+		{
+			PaintGrid();
 		}
 	}
 }

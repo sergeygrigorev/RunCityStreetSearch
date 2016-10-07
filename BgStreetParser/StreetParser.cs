@@ -78,61 +78,60 @@ namespace BgStreetParser
 
 		private void ParseDetails(Street street)
 		{
-			if (street.Url == null)
-				return;
-
-
-			HtmlDocument doc = null;
-
-			int retryCount = 10;
-			for (int i = 0; i < retryCount; i++)
+			if (street.Url != null)
 			{
-				try
+				HtmlDocument doc = null;
+
+				int retryCount = 10;
+				for (int i = 0; i < retryCount; i++)
 				{
-					var cacheFile = Path.Combine(CacheDirectory, street.Url.Substring(street.Url.LastIndexOf('/') + 1) + ".html");
-					string contents = null;
-					if (File.Exists(cacheFile))
+					try
 					{
-						contents = File.ReadAllText(cacheFile, Encoding.UTF8);
+						var cacheFile = Path.Combine(CacheDirectory, street.Url.Substring(street.Url.LastIndexOf('/') + 1) + ".html");
+						string contents = null;
+						if (File.Exists(cacheFile))
+						{
+							contents = File.ReadAllText(cacheFile, Encoding.UTF8);
+						}
+						else
+						{
+							var http = new WebClient { Encoding = Encoding.UTF8, };
+							contents = http.DownloadString(street.Url);
+							File.WriteAllText(cacheFile, contents, Encoding.UTF8);
+						}
+						doc = new HtmlDocument();
+						doc.LoadHtml(contents);
+						break;
 					}
-					else
+					catch
 					{
-						var http = new WebClient { Encoding = Encoding.UTF8, };                        
-						contents = http.DownloadString(street.Url);
-						File.WriteAllText(cacheFile, contents, Encoding.UTF8);
+						if (i >= retryCount - 1)
+						{
+							throw;
+						}
+						Thread.Sleep(TimeSpan.FromSeconds(_random.Next(1, 10)));
 					}
-					doc = new HtmlDocument();
-					doc.LoadHtml(contents);
-					break;
 				}
-				catch
+
+
+				var content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""mw-content-text""]/table[1]/tr[./td[contains(.,'Прежние')]]/td[2]");
+				if (content != null)
 				{
-					if (i >= retryCount - 1)
-					{
-						throw;
-					}
-					Thread.Sleep(TimeSpan.FromSeconds(_random.Next(1, 10)));
+					var separators = new[] { "\n", ", " };
+					street.PreviousNames.AddRange(content.InnerText.Split(separators, StringSplitOptions.None));
 				}
-			}
 
+				content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""mw-content-text""]/table[1]/tr[./td[contains(.,'Район')]]/td[2]");
+				if (content != null)
+				{
+					street.District = content.InnerText;
+				}
 
-			var content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""mw-content-text""]/table[1]/tr[./td[contains(.,'Прежние')]]/td[2]");
-			if (content != null)
-			{
-				var separators = new[] { "\n", ", " };
-				street.PreviousNames.AddRange(content.InnerText.Split(separators, StringSplitOptions.None));
-			}
-
-			content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""mw-content-text""]/table[1]/tr[./td[contains(.,'Район')]]/td[2]");
-			if (content != null)
-			{
-				street.District = content.InnerText;
-			}
-
-			content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""coordinates""]");
-			if (content != null)
-			{
-				street.Coordinate = GeoUtil.ParseCoordinate(content.InnerText);
+				content = doc.DocumentNode.SelectSingleNode(@"//*[@id=""coordinates""]");
+				if (content != null)
+				{
+					street.Coordinate = GeoUtil.ParseCoordinate(content.InnerText);
+				}
 			}
 
 			if (street.Coordinate == null)

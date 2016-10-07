@@ -13,7 +13,7 @@ namespace BgStreetParser
 	public class GeoUtil
 	{
 		private static Regex degreeRegex = new Regex(@"\d{2}°\d{2}′\d{2}″", RegexOptions.Compiled);
-		private static Regex decimalRegex = new Regex(@"\d{2}\.\d{6}\d*", RegexOptions.Compiled);
+		private static Regex decimalRegex = new Regex(@"\d{2}\.\d{3}\d*", RegexOptions.Compiled);
 
 		public static double Distance(Coordinate point1, Coordinate point2)
 		{

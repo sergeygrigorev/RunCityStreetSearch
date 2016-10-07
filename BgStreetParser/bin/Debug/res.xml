@@ -106,6 +106,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -113,6 +117,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.151521</Longtitude>
+      <Latitude>59.849722</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -133,6 +141,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.138271</Longtitude>
+      <Latitude>59.85318</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -157,6 +169,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.379388</Longtitude>
+      <Latitude>60.02655</Latitude>
+    </Coordinate>
     <District>Калининский</District>
     <Distance>0</Distance>
   </Street>
@@ -230,6 +246,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.312455</Longtitude>
+      <Latitude>59.978075</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -288,6 +308,10 @@
       <string>Батенина улица</string>
       <string>и Реймеровский переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.33962</Longtitude>
+      <Latitude>59.980321</Latitude>
+    </Coordinate>
     <District>Выборгский</District>
     <Distance>0</Distance>
   </Street>
@@ -327,6 +351,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.169533</Longtitude>
+      <Latitude>59.991561</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -334,6 +362,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.316057</Longtitude>
+      <Latitude>60.040577</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -341,6 +373,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.291551</Longtitude>
+      <Latitude>60.017558</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -348,6 +384,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.284059</Longtitude>
+      <Latitude>60.019307</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -388,6 +428,10 @@
     <PreviousNames>
       <string>Андреевский переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.499933</Longtitude>
+      <Latitude>59.97002</Latitude>
+    </Coordinate>
     <District>Фрунзенский</District>
     <Distance>0</Distance>
   </Street>
@@ -396,6 +440,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.08422</Longtitude>
+      <Latitude>59.829721</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -404,6 +452,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.499933</Longtitude>
+      <Latitude>59.97002</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -544,6 +596,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.289601</Longtitude>
+      <Latitude>60.033265</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -552,6 +608,10 @@
     <Category>Улицы</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.30154</Longtitude>
+      <Latitude>60.024073</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -573,6 +633,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.098934</Longtitude>
+      <Latitude>59.825588</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -627,6 +691,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.392701</Longtitude>
+      <Latitude>59.824041</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -711,6 +779,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.260927</Longtitude>
+      <Latitude>59.893466</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -744,6 +816,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.177114</Longtitude>
+      <Latitude>59.820942</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -813,6 +889,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.50164</Longtitude>
+      <Latitude>59.939893</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -821,6 +901,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.265383</Longtitude>
+      <Latitude>59.889715</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -854,6 +938,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.10339</Longtitude>
+      <Latitude>59.783978</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -861,6 +949,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.161556</Longtitude>
+      <Latitude>59.987744</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -868,6 +960,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.307918</Longtitude>
+      <Latitude>60.039894</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -875,6 +971,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.161556</Longtitude>
+      <Latitude>59.987744</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -882,6 +982,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.291281</Longtitude>
+      <Latitude>60.058183</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -889,6 +993,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.291272</Longtitude>
+      <Latitude>60.019752</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -899,6 +1007,10 @@
     <PreviousNames>
       <string>Детская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.240374</Longtitude>
+      <Latitude>59.94225</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -923,6 +1035,10 @@
     <PreviousNames>
       <string>Казанья улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.403337</Longtitude>
+      <Latitude>59.90381</Latitude>
+    </Coordinate>
     <District>Невский</District>
     <Distance>0</Distance>
   </Street>
@@ -993,6 +1109,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.166856</Longtitude>
+      <Latitude>59.988563</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1016,6 +1136,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.353427</Longtitude>
+      <Latitude>60.000524</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1023,6 +1147,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.100524</Longtitude>
+      <Latitude>59.827437</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1077,6 +1205,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.350525</Longtitude>
+      <Latitude>59.958534</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1097,6 +1229,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.520334</Longtitude>
+      <Latitude>59.974297</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1104,6 +1240,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.287787</Longtitude>
+      <Latitude>59.87537</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1116,6 +1256,10 @@
       <string>Госпитальная линия,</string>
       <string>Госпитальная улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.322893</Longtitude>
+      <Latitude>59.91415</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -1244,6 +1388,10 @@
     <Category>Улицы</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.41409</Longtitude>
+      <Latitude>59.848131</Latitude>
+    </Coordinate>
     <District>Фрунзенский</District>
     <Distance>0</Distance>
   </Street>
@@ -1308,6 +1456,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.311475</Longtitude>
+      <Latitude>60.046383</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1372,6 +1524,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.28696</Longtitude>
+      <Latitude>60.030002</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1473,6 +1629,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.289197</Longtitude>
+      <Latitude>59.8175</Latitude>
+    </Coordinate>
     <District>Московский</District>
     <Distance>0</Distance>
   </Street>
@@ -1481,6 +1641,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.388389</Longtitude>
+      <Latitude>60.052492</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1488,6 +1652,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.521151</Longtitude>
+      <Latitude>59.828704</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1556,6 +1724,10 @@
       <string>Хлебная улица,</string>
       <string>улица Войтика</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.279594</Longtitude>
+      <Latitude>59.92037</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -1651,6 +1823,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.130752</Longtitude>
+      <Latitude>59.780128</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1658,6 +1834,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.143463</Longtitude>
+      <Latitude>59.99575</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1665,6 +1845,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.593897</Longtitude>
+      <Latitude>59.742475</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1689,6 +1873,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.086663</Longtitude>
+      <Latitude>59.822218</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1696,6 +1884,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.099814</Longtitude>
+      <Latitude>59.833411</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1747,6 +1939,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.307226</Longtitude>
+      <Latitude>59.958016</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1769,6 +1965,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.190086</Longtitude>
+      <Latitude>59.820191</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1783,6 +1983,10 @@
       <string>ул. Текстилей</string>
       <string>Брестская ул.</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.302232</Longtitude>
+      <Latitude>59.96702</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -1791,6 +1995,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.520576</Longtitude>
+      <Latitude>59.977886</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1798,6 +2006,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347192</Longtitude>
+      <Latitude>59.965084</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1805,6 +2017,10 @@
     <Category>Улицы</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.166397</Longtitude>
+      <Latitude>59.988586</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -1872,6 +2088,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294434</Longtitude>
+      <Latitude>59.96602</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -1904,6 +2124,10 @@
       <string>Канатная линия,</string>
       <string>Красная улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.293015</Longtitude>
+      <Latitude>59.93291</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -1945,6 +2169,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.259104</Longtitude>
+      <Latitude>59.912386</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2014,6 +2242,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.336035</Longtitude>
+      <Latitude>59.974356</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2021,6 +2253,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.119299</Longtitude>
+      <Latitude>59.775635</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2054,6 +2290,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.088657</Longtitude>
+      <Latitude>59.747761</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2074,6 +2314,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.076153</Longtitude>
+      <Latitude>59.824027</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2112,6 +2356,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.297102</Longtitude>
+      <Latitude>60.022656</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2119,6 +2367,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.267763</Longtitude>
+      <Latitude>59.896653</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2146,6 +2398,10 @@
       <string>Колмовский переулок,</string>
       <string>Холмский переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.318285</Longtitude>
+      <Latitude>59.88693</Latitude>
+    </Coordinate>
     <District>Московский</District>
     <Distance>0</Distance>
   </Street>
@@ -2173,6 +2429,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.389602</Longtitude>
+      <Latitude>59.91457</Latitude>
+    </Coordinate>
     <District>Невский</District>
     <Distance>0</Distance>
   </Street>
@@ -2207,6 +2467,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.36656</Longtitude>
+      <Latitude>60.006143</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2229,6 +2493,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.295701</Longtitude>
+      <Latitude>60.019954</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2286,6 +2554,10 @@
       <string>Средняя Казанская улица,</string>
       <string>Мещанская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.31161</Longtitude>
+      <Latitude>59.927766</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -2307,6 +2579,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.140194</Longtitude>
+      <Latitude>60.004343</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2358,6 +2634,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.268751</Longtitude>
+      <Latitude>59.97183</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -2366,6 +2646,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.343141</Longtitude>
+      <Latitude>59.969295</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2390,6 +2674,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.353508</Longtitude>
+      <Latitude>59.982361</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2414,6 +2702,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.314305</Longtitude>
+      <Latitude>60.02713</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2450,6 +2742,10 @@
     <Category>Улицы</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.263173</Longtitude>
+      <Latitude>59.894883</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2483,6 +2779,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.134004</Longtitude>
+      <Latitude>59.762959</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2544,6 +2844,10 @@
       <string>Приказная улица,</string>
       <string>Морская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.295009</Longtitude>
+      <Latitude>59.92626</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -2581,6 +2885,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.295404</Longtitude>
+      <Latitude>60.042438</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2589,6 +2897,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.20109</Longtitude>
+      <Latitude>59.854097</Latitude>
+    </Coordinate>
     <District>Красносельский</District>
     <Distance>0</Distance>
   </Street>
@@ -2597,6 +2909,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301917</Longtitude>
+      <Latitude>60.035949</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2604,6 +2920,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.297399</Longtitude>
+      <Latitude>60.036704</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2639,6 +2959,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.077707</Longtitude>
+      <Latitude>59.833339</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2646,6 +2970,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.348926</Longtitude>
+      <Latitude>59.980952</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2731,6 +3059,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.084911</Longtitude>
+      <Latitude>59.826949</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2738,6 +3070,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.500472</Longtitude>
+      <Latitude>59.836902</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2748,6 +3084,10 @@
     <PreviousNames>
       <string>Екатеринославская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.358942</Longtitude>
+      <Latitude>59.91258</Latitude>
+    </Coordinate>
     <District>Центральный, Фрунзенский</District>
     <Distance>0</Distance>
   </Street>
@@ -2785,6 +3125,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.143517</Longtitude>
+      <Latitude>59.836694</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2885,6 +3229,10 @@
     <PreviousNames>
       <string>Большая Осиповская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.332182</Longtitude>
+      <Latitude>60.01387</Latitude>
+    </Coordinate>
     <District>Выборгский</District>
     <Distance>0</Distance>
   </Street>
@@ -2894,6 +3242,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.292467</Longtitude>
+      <Latitude>59.91157</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -2902,6 +3254,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.112606</Longtitude>
+      <Latitude>59.787284</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2925,6 +3281,10 @@
     <Category>Улицы</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.075695</Longtitude>
+      <Latitude>59.824389</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -2952,6 +3312,10 @@
       <string>Гостиная ул.</string>
       <string>Думная ул.</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.328543</Longtitude>
+      <Latitude>59.93351</Latitude>
+    </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -3004,8 +3368,8 @@
       <string>Тарасов переулок</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.314036</Longtitude>
-      <Latitude>59.912585</Latitude>
+      <Longtitude>30.314071</Longtitude>
+      <Latitude>59.91271</Latitude>
     </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
@@ -3044,6 +3408,10 @@
     <Category>Улицы</Category>
     <Letter>1045</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.306058</Longtitude>
+      <Latitude>60.047209</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3051,6 +3419,10 @@
     <Category>Улицы</Category>
     <Letter>1045</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.296554</Longtitude>
+      <Latitude>60.038852</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3073,6 +3445,10 @@
     <Category>Улицы</Category>
     <Letter>1045</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.318617</Longtitude>
+      <Latitude>60.016627</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3080,6 +3456,10 @@
     <Category>Улицы</Category>
     <Letter>1045</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.431454</Longtitude>
+      <Latitude>59.919139</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3135,6 +3515,10 @@
       <string>Кадетская линия,</string>
       <string>набережная реки Ждановки</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.278121</Longtitude>
+      <Latitude>59.95898</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -3143,6 +3527,10 @@
     <Category>Улицы</Category>
     <Letter>1046</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301172</Longtitude>
+      <Latitude>60.039827</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3150,6 +3538,10 @@
     <Category>Улицы</Category>
     <Letter>1046</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.177842</Longtitude>
+      <Latitude>59.822322</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3157,6 +3549,10 @@
     <Category>Улицы</Category>
     <Letter>1046</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.177842</Longtitude>
+      <Latitude>59.822322</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3164,6 +3560,10 @@
     <Category>Улицы</Category>
     <Letter>1046</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301172</Longtitude>
+      <Latitude>60.039827</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3274,6 +3674,10 @@
     <Category>Улицы</Category>
     <Letter>1046</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.076368</Longtitude>
+      <Latitude>59.830531</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3311,6 +3715,10 @@
     <Category>Улицы</Category>
     <Letter>1046</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.151467</Longtitude>
+      <Latitude>59.98963</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3318,6 +3726,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.316991</Longtitude>
+      <Latitude>60.020638</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3325,6 +3737,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.102168</Longtitude>
+      <Latitude>59.791019</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3332,6 +3748,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.172757</Longtitude>
+      <Latitude>59.819341</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3339,6 +3759,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.173279</Longtitude>
+      <Latitude>59.818296</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3347,6 +3771,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.360586</Longtitude>
+      <Latitude>59.89793</Latitude>
+    </Coordinate>
     <District>Фрунзенский</District>
     <Distance>0</Distance>
   </Street>
@@ -3416,6 +3844,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.281202</Longtitude>
+      <Latitude>60.04862</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -3424,6 +3856,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.468645</Longtitude>
+      <Latitude>59.850857</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3431,6 +3867,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.152977</Longtitude>
+      <Latitude>59.771617</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3439,6 +3879,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.5027</Longtitude>
+      <Latitude>59.975774</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -3447,6 +3891,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.31656</Longtitude>
+      <Latitude>60.015651</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3473,6 +3921,10 @@
     <PreviousNames>
       <string>8-я линия Новой Деревни</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.26991</Longtitude>
+      <Latitude>59.987758</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -3506,6 +3958,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.35737</Longtitude>
+      <Latitude>59.834298</Latitude>
+    </Coordinate>
     <District>Московский</District>
     <Distance>0</Distance>
   </Street>
@@ -3521,6 +3977,10 @@
       <string>7-я линия Московской части,</string>
       <string>7-я рота Лейб-Гвардии Семёновского полка</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.338928</Longtitude>
+      <Latitude>59.92023</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -3575,6 +4035,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.111798</Longtitude>
+      <Latitude>59.755952</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3582,6 +4046,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.364503</Longtitude>
+      <Latitude>60.016465</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3639,6 +4107,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.323872</Longtitude>
+      <Latitude>60.001136</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3662,6 +4134,10 @@
     <Category>Улицы</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.174051</Longtitude>
+      <Latitude>59.809917</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3769,6 +4245,10 @@
     <Category>Улицы</Category>
     <Letter>1048</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.280789</Longtitude>
+      <Latitude>59.901215</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3845,6 +4325,10 @@
     <Category>Улицы</Category>
     <Letter>1048</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.101117</Longtitude>
+      <Latitude>59.830662</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3888,6 +4372,10 @@
       <string>Большая Итальянская</string>
       <string>Ракова</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.33546</Longtitude>
+      <Latitude>59.936192</Latitude>
+    </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -3903,8 +4391,8 @@
       <string>Красной Конницы</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.382766</Longtitude>
-      <Latitude>59.946644</Latitude>
+      <Longtitude>30.38279</Longtitude>
+      <Latitude>59.946334</Latitude>
     </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
@@ -3979,6 +4467,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.252204</Longtitude>
+      <Latitude>59.896152</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3986,6 +4478,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319291</Longtitude>
+      <Latitude>60.015156</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -3997,6 +4493,10 @@
       <string>набережной Чёрной речки,</string>
       <string>улица с православного кладбища</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.258124</Longtitude>
+      <Latitude>59.94714</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -4035,6 +4535,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.22866</Longtitude>
+      <Latitude>60.008432</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -4063,6 +4567,10 @@
     <PreviousNames>
       <string>Шкиперская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.28997</Longtitude>
+      <Latitude>59.919631</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -4093,6 +4601,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.341416</Longtitude>
+      <Latitude>59.986983</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4100,6 +4612,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.137454</Longtitude>
+      <Latitude>59.849754</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4163,6 +4679,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.092493</Longtitude>
+      <Latitude>59.8249</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4170,6 +4690,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.078704</Longtitude>
+      <Latitude>59.823444</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4221,6 +4745,10 @@
       <string>Карташевская улица,</string>
       <string>Зорькина улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.2412</Longtitude>
+      <Latitude>59.933045</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -4246,6 +4774,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.155878</Longtitude>
+      <Latitude>59.852963</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4253,6 +4785,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.255331</Longtitude>
+      <Latitude>59.895754</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4275,6 +4811,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.438901</Longtitude>
+      <Latitude>59.863748</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4328,6 +4868,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.133636</Longtitude>
+      <Latitude>59.778905</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4335,6 +4879,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.133636</Longtitude>
+      <Latitude>59.778905</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4373,6 +4921,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.350139</Longtitude>
+      <Latitude>59.95553</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4409,6 +4961,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.510641</Longtitude>
+      <Latitude>59.977962</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4444,6 +5000,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.129692</Longtitude>
+      <Latitude>59.779843</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4464,6 +5024,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.150309</Longtitude>
+      <Latitude>59.790154</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4471,6 +5035,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.140517</Longtitude>
+      <Latitude>59.996695</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4538,6 +5106,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.135316</Longtitude>
+      <Latitude>59.783584</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4545,6 +5117,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.159974</Longtitude>
+      <Latitude>59.994252</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4552,6 +5128,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.31983</Longtitude>
+      <Latitude>60.013627</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4559,6 +5139,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.311421</Longtitude>
+      <Latitude>60.032856</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4566,6 +5150,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.419615</Longtitude>
+      <Latitude>59.95074</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4591,6 +5179,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.147236</Longtitude>
+      <Latitude>59.78266</Latitude>
+    </Coordinate>
     <District>Красносельский</District>
     <Distance>0</Distance>
   </Street>
@@ -4599,6 +5191,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.138415</Longtitude>
+      <Latitude>60.003061</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4606,6 +5202,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.087049</Longtitude>
+      <Latitude>59.832159</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4657,6 +5257,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.362356</Longtitude>
+      <Latitude>59.954439</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4664,6 +5268,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.13413</Longtitude>
+      <Latitude>60.002359</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4734,6 +5342,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.125488</Longtitude>
+      <Latitude>59.771653</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4786,6 +5398,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.251917</Longtitude>
+      <Latitude>59.87668</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4806,6 +5422,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.269973</Longtitude>
+      <Latitude>59.884997</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4861,6 +5481,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.272372</Longtitude>
+      <Latitude>59.896937</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4943,6 +5567,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.493016</Longtitude>
+      <Latitude>59.968574</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4950,6 +5578,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.105285</Longtitude>
+      <Latitude>59.823928</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4957,6 +5589,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.105285</Longtitude>
+      <Latitude>59.823928</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -4964,6 +5600,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.186708</Longtitude>
+      <Latitude>59.818224</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5096,6 +5736,10 @@
       <string>8-я Измайловская улица,</string>
       <string>8-я Рота Измайловского полка</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.30163</Longtitude>
+      <Latitude>59.914308</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -5161,8 +5805,8 @@
       <string>12-я Рота Измайловского полка</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.299887</Longtitude>
-      <Latitude>59.911457</Latitude>
+      <Longtitude>30.29856</Longtitude>
+      <Latitude>59.911338</Latitude>
     </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
@@ -5273,6 +5917,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.173916</Longtitude>
+      <Latitude>59.819544</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5299,6 +5947,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.087983</Longtitude>
+      <Latitude>59.824461</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5306,6 +5958,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.154558</Longtitude>
+      <Latitude>59.993437</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5313,6 +5969,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.154558</Longtitude>
+      <Latitude>59.993437</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5405,6 +6065,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.138065</Longtitude>
+      <Latitude>59.994954</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5457,6 +6121,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.320135</Longtitude>
+      <Latitude>60.012881</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5507,6 +6175,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.329424</Longtitude>
+      <Latitude>59.955926</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5514,6 +6186,10 @@
     <Category>Улицы</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5681,6 +6357,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.078416</Longtitude>
+      <Latitude>59.820924</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5691,6 +6371,10 @@
     <PreviousNames>
       <string>С 3 марта 1975 года по 6 декабря 1976 года входила в состав Товарищеского проспекта</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.4582</Longtitude>
+      <Latitude>59.9292</Latitude>
+    </Coordinate>
     <District>Невский</District>
     <Distance>0</Distance>
   </Street>
@@ -5717,6 +6401,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.149114</Longtitude>
+      <Latitude>59.990507</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5742,6 +6430,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.091568</Longtitude>
+      <Latitude>59.823285</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5749,6 +6441,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.411197</Longtitude>
+      <Latitude>59.72871</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5782,6 +6478,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.141613</Longtitude>
+      <Latitude>60.00123</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5790,6 +6490,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.141613</Longtitude>
+      <Latitude>60.00123</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -5798,6 +6502,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.550867</Longtitude>
+      <Latitude>59.830327</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5805,6 +6513,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.454846</Longtitude>
+      <Latitude>59.8686</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5825,6 +6537,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.113918</Longtitude>
+      <Latitude>59.765972</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -5863,6 +6579,10 @@
     <PreviousNames>
       <string>1-я Лидинская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.32663</Longtitude>
+      <Latitude>60.013452</Latitude>
+    </Coordinate>
     <District>Выборгский</District>
     <Distance>0</Distance>
   </Street>
@@ -5994,6 +6714,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.321662</Longtitude>
+      <Latitude>60.012246</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6022,6 +6746,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.138586</Longtitude>
+      <Latitude>59.768849</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6058,6 +6786,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.168823</Longtitude>
+      <Latitude>59.993635</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6065,6 +6797,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.168823</Longtitude>
+      <Latitude>59.993635</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6113,6 +6849,10 @@
     <Category>Улицы</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.080294</Longtitude>
+      <Latitude>59.819816</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6151,6 +6891,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.955796</Longtitude>
+      <Latitude>60.106181</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6158,6 +6902,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.139933</Longtitude>
+      <Latitude>59.781351</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6165,6 +6913,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.404199</Longtitude>
+      <Latitude>59.71828</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6218,6 +6970,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.345557</Longtitude>
+      <Latitude>59.921507</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6262,6 +7018,10 @@
       <string>Кузнечный переулок,</string>
       <string>Олонецкая улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.30658</Longtitude>
+      <Latitude>59.95612</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -6325,6 +7085,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.131875</Longtitude>
+      <Latitude>59.853618</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6393,6 +7157,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.33962</Longtitude>
+      <Latitude>59.980321</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6400,6 +7168,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.004826</Longtitude>
+      <Latitude>60.051504</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6412,8 +7184,8 @@
       <string>Надеждинская</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.355133</Longtitude>
-      <Latitude>59.937923</Latitude>
+      <Longtitude>30.35525</Longtitude>
+      <Latitude>59.938583</Latitude>
     </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
@@ -6423,6 +7195,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.355133</Longtitude>
+      <Latitude>59.937923</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6433,6 +7209,10 @@
     <PreviousNames>
       <string>Новая улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.36824</Longtitude>
+      <Latitude>59.901111</Latitude>
+    </Coordinate>
     <District>Фрунзенский</District>
     <Distance>0</Distance>
   </Street>
@@ -6467,6 +7247,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.314</Longtitude>
+      <Latitude>60.021942</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6489,6 +7273,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.359113</Longtitude>
+      <Latitude>59.975468</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6496,6 +7284,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.285775</Longtitude>
+      <Latitude>59.901138</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6539,6 +7331,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.080321</Longtitude>
+      <Latitude>59.830196</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6565,6 +7361,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.140185</Longtitude>
+      <Latitude>59.779164</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6631,6 +7431,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.361305</Longtitude>
+      <Latitude>59.955038</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6655,6 +7459,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.153246</Longtitude>
+      <Latitude>59.992776</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6675,6 +7483,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.076449</Longtitude>
+      <Latitude>59.825294</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6718,6 +7530,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.13024</Longtitude>
+      <Latitude>59.767277</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6748,6 +7564,10 @@
     <PreviousNames>
       <string>Гурдина улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.411871</Longtitude>
+      <Latitude>59.94778</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -6756,6 +7576,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.099626</Longtitude>
+      <Latitude>59.828609</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6763,6 +7587,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.117143</Longtitude>
+      <Latitude>59.785377</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6821,6 +7649,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.81442</Longtitude>
+      <Latitude>59.903507</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6852,6 +7684,10 @@
       <string>Морская Исаакиевская улица,</string>
       <string>улица Гоголя</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.31064</Longtitude>
+      <Latitude>59.934804</Latitude>
+    </Coordinate>
     <District>Адмиралтейский, Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -6873,6 +7709,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.133645</Longtitude>
+      <Latitude>59.768092</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6915,6 +7755,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.22097</Longtitude>
+      <Latitude>59.84546</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6939,6 +7783,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.480359</Longtitude>
+      <Latitude>59.843521</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6965,6 +7813,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.314179</Longtitude>
+      <Latitude>60.024473</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -6973,6 +7825,10 @@
     <Category>Улицы</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.279504</Longtitude>
+      <Latitude>59.91973</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -6981,6 +7837,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.131426</Longtitude>
+      <Latitude>59.772333</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7001,6 +7861,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.184364</Longtitude>
+      <Latitude>59.81769</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7008,6 +7872,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.131426</Longtitude>
+      <Latitude>59.772333</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7059,6 +7927,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.244057</Longtitude>
+      <Latitude>59.903787</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7082,6 +7954,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.323504</Longtitude>
+      <Latitude>60.008531</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7104,6 +7980,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.358897</Longtitude>
+      <Latitude>59.938793</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7125,6 +8005,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.227851</Longtitude>
+      <Latitude>60.03042</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -7133,6 +8017,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.291227</Longtitude>
+      <Latitude>60.017085</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7140,6 +8028,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.283466</Longtitude>
+      <Latitude>60.019019</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7147,6 +8039,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.102635</Longtitude>
+      <Latitude>59.832227</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7154,6 +8050,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.302887</Longtitude>
+      <Latitude>60.045008</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7161,6 +8061,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.085046</Longtitude>
+      <Latitude>59.825714</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7168,6 +8072,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.160549</Longtitude>
+      <Latitude>59.997932</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7175,6 +8083,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.160549</Longtitude>
+      <Latitude>59.997932</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7208,6 +8120,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.461305</Longtitude>
+      <Latitude>59.865456</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7215,6 +8131,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.291425</Longtitude>
+      <Latitude>60.050978</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7222,6 +8142,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.149123</Longtitude>
+      <Latitude>59.840917</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7258,6 +8182,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.256768</Longtitude>
+      <Latitude>60.030097</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7295,6 +8223,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.142341</Longtitude>
+      <Latitude>59.783126</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7320,6 +8252,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.329693</Longtitude>
+      <Latitude>59.884975</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7353,6 +8289,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.286134</Longtitude>
+      <Latitude>60.030987</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7392,6 +8332,10 @@
     <Category>Улицы</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.293428</Longtitude>
+      <Latitude>60.033917</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7399,6 +8343,10 @@
     <Category>Улицы</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.264763</Longtitude>
+      <Latitude>59.893796</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7419,6 +8367,10 @@
     <Category>Улицы</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.346016</Longtitude>
+      <Latitude>60.004343</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7426,6 +8378,10 @@
     <Category>Улицы</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.090139</Longtitude>
+      <Latitude>59.82661</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7477,6 +8433,10 @@
     <Category>Улицы</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.308376</Longtitude>
+      <Latitude>60.036272</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7484,6 +8444,10 @@
     <Category>Улицы</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.525005</Longtitude>
+      <Latitude>59.985638</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7504,6 +8468,10 @@
     <Category>Улицы</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315724</Longtitude>
+      <Latitude>60.023758</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7631,6 +8599,10 @@
     <PreviousNames>
       <string>Николаевская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.500625</Longtitude>
+      <Latitude>59.97015</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -7699,6 +8671,10 @@
     <Category>Улицы</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.341111</Longtitude>
+      <Latitude>59.959048</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7764,6 +8740,10 @@
     <Category>Улицы</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.24085</Longtitude>
+      <Latitude>59.937301</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -7852,6 +8832,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.345351</Longtitude>
+      <Latitude>59.986146</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7874,6 +8858,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.141828</Longtitude>
+      <Latitude>59.767417</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7881,6 +8869,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.077994</Longtitude>
+      <Latitude>59.832408</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7909,6 +8901,10 @@
     <PreviousNames>
       <string>Единоверческая улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.43397</Longtitude>
+      <Latitude>59.947352</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -7960,6 +8956,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.135864</Longtitude>
+      <Latitude>60.004015</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -7967,6 +8967,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305654</Longtitude>
+      <Latitude>60.048193</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8020,6 +9024,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.326935</Longtitude>
+      <Latitude>60.00024</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8027,6 +9035,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.141864</Longtitude>
+      <Latitude>59.995251</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8034,6 +9046,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.117439</Longtitude>
+      <Latitude>59.786007</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8070,6 +9086,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.44421</Longtitude>
+      <Latitude>59.957449</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -8203,6 +9223,10 @@
       <string>Средняя</string>
       <string>2-я Спасская)</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.28555</Longtitude>
+      <Latitude>59.959336</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -8298,6 +9322,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319991</Longtitude>
+      <Latitude>59.860857</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8348,6 +9376,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.314844</Longtitude>
+      <Latitude>60.033814</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8359,6 +9391,10 @@
       <string>14-я улица (1804—1817)</string>
       <string>Покровская улица (до 1923)</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.303651</Longtitude>
+      <Latitude>59.96385</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -8406,6 +9442,10 @@
       <string>Подьяческая улица,</string>
       <string>1-я Подьяческая улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.305367</Longtitude>
+      <Latitude>59.9229</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -8466,6 +9506,10 @@
     <PreviousNames>
       <string>Одинцов переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.267772</Longtitude>
+      <Latitude>59.98544</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -8474,6 +9518,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.144371</Longtitude>
+      <Latitude>59.784861</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8481,6 +9529,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.168122</Longtitude>
+      <Latitude>59.994292</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8488,6 +9540,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.140984</Longtitude>
+      <Latitude>60.002175</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8495,6 +9551,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.299393</Longtitude>
+      <Latitude>60.019095</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8502,6 +9562,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.285721</Longtitude>
+      <Latitude>60.017387</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8618,6 +9682,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.535147</Longtitude>
+      <Latitude>59.974928</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8625,6 +9693,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.54678</Longtitude>
+      <Latitude>59.97767</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8632,6 +9704,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.54766</Longtitude>
+      <Latitude>59.97744</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8639,6 +9715,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.548083</Longtitude>
+      <Latitude>59.976778</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8646,6 +9726,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.550849</Longtitude>
+      <Latitude>59.975536</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8653,6 +9737,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.552044</Longtitude>
+      <Latitude>59.973933</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8660,6 +9748,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.553113</Longtitude>
+      <Latitude>59.973109</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8667,6 +9759,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.555655</Longtitude>
+      <Latitude>59.972123</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8680,6 +9776,10 @@
       <string>Щеглов переулок,</string>
       <string>Ириновский проспект.</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.42893</Longtitude>
+      <Latitude>59.953308</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -8688,6 +9788,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.249366</Longtitude>
+      <Latitude>59.865397</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8734,6 +9838,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.553041</Longtitude>
+      <Latitude>59.974095</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8741,6 +9849,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.523783</Longtitude>
+      <Latitude>59.981348</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8748,6 +9860,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.175057</Longtitude>
+      <Latitude>59.818414</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8787,6 +9903,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301567</Longtitude>
+      <Latitude>59.93199</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -8875,6 +9995,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.161124</Longtitude>
+      <Latitude>59.9922</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8882,6 +10006,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301091</Longtitude>
+      <Latitude>60.042334</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8889,6 +10017,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.303175</Longtitude>
+      <Latitude>59.95024</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8911,6 +10043,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.475094</Longtitude>
+      <Latitude>59.850409</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8934,6 +10070,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.32027</Longtitude>
+      <Latitude>60.062948</Latitude>
+    </Coordinate>
     <District>Выборгский</District>
     <Distance>0</Distance>
   </Street>
@@ -8942,6 +10082,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.095152</Longtitude>
+      <Latitude>59.828925</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -8949,6 +10093,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.188514</Longtitude>
+      <Latitude>59.81949</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9056,6 +10204,10 @@
     <PreviousNames>
       <string>Полевая улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.417692</Longtitude>
+      <Latitude>59.95042</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -9064,6 +10216,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.29094</Longtitude>
+      <Latitude>60.027939</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9145,6 +10301,10 @@
     <Category>Улицы</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.076198</Longtitude>
+      <Latitude>59.831589</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9152,6 +10312,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.100452</Longtitude>
+      <Latitude>59.825194</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9159,6 +10323,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.167799</Longtitude>
+      <Latitude>59.816762</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9166,6 +10334,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.47955</Longtitude>
+      <Latitude>59.853374</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9189,6 +10361,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.346195</Longtitude>
+      <Latitude>60.006651</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9243,6 +10419,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.308978</Longtitude>
+      <Latitude>60.028141</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9353,6 +10533,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.28255</Longtitude>
+      <Latitude>60.024037</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -9361,6 +10545,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.433404</Longtitude>
+      <Latitude>59.986326</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9375,6 +10563,10 @@
       <string>Уткина улица</string>
       <string>Уткин проспект</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.410766</Longtitude>
+      <Latitude>59.93374</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -9383,6 +10575,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.410766</Longtitude>
+      <Latitude>59.93374</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9403,6 +10599,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.180285</Longtitude>
+      <Latitude>59.81341</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9415,6 +10615,10 @@
       <string>Георгиевская улица,</string>
       <string>Вардовский переулок (присоединён)</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.328391</Longtitude>
+      <Latitude>59.87901</Latitude>
+    </Coordinate>
     <District>Московский</District>
     <Distance>0</Distance>
   </Street>
@@ -9437,6 +10641,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.41612</Longtitude>
+      <Latitude>59.921561</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -9473,6 +10681,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.103991</Longtitude>
+      <Latitude>59.831689</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9543,6 +10755,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.27486</Longtitude>
+      <Latitude>59.990868</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9588,6 +10804,10 @@
       <string>5-я рота Лейб-Гвардии Семеновского полка,</string>
       <string>Дьяконовский переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.32893</Longtitude>
+      <Latitude>59.916302</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -9672,6 +10892,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.289709</Longtitude>
+      <Latitude>60.03078</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9679,6 +10903,10 @@
     <Category>Улицы</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.131462</Longtitude>
+      <Latitude>60.000992</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9686,6 +10914,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.279612</Longtitude>
+      <Latitude>59.989814</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9757,8 +10989,8 @@
       <string>Улица 3-го июля</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.311332</Longtitude>
-      <Latitude>59.924046</Latitude>
+      <Longtitude>30.3302</Longtitude>
+      <Latitude>59.9321</Latitude>
     </Coordinate>
     <District>Центральный, Адмиралтейский</District>
     <Distance>0</Distance>
@@ -9768,6 +11000,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.083204</Longtitude>
+      <Latitude>59.823439</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9775,6 +11011,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.141155</Longtitude>
+      <Latitude>59.998481</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9849,6 +11089,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.343249</Longtitude>
+      <Latitude>59.959872</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9872,6 +11116,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.098422</Longtitude>
+      <Latitude>59.831933</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9879,6 +11127,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.11204</Longtitude>
+      <Latitude>59.766013</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9899,6 +11151,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.266542</Longtitude>
+      <Latitude>59.892915</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9919,6 +11175,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.29686</Longtitude>
+      <Latitude>60.041791</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9946,6 +11206,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305106</Longtitude>
+      <Latitude>60.046526</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -9953,6 +11217,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.292036</Longtitude>
+      <Latitude>60.038888</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10078,6 +11346,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.24429</Longtitude>
+      <Latitude>59.998463</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -10099,6 +11371,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.169739</Longtitude>
+      <Latitude>59.99274</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10106,6 +11382,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.534114</Longtitude>
+      <Latitude>59.831842</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10161,6 +11441,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.34235</Longtitude>
+      <Latitude>59.970767</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10168,6 +11452,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.087903</Longtitude>
+      <Latitude>59.832837</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10175,6 +11463,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.121607</Longtitude>
+      <Latitude>59.783937</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10182,6 +11474,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.139933</Longtitude>
+      <Latitude>59.997608</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10189,6 +11485,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.121607</Longtitude>
+      <Latitude>59.783937</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10250,6 +11550,10 @@
       <string>3-я Рождественская,</string>
       <string>Съезжинская</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.37036</Longtitude>
+      <Latitude>59.931951</Latitude>
+    </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -10430,6 +11734,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.089816</Longtitude>
+      <Latitude>59.835075</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10437,6 +11745,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.191433</Longtitude>
+      <Latitude>59.817771</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10472,6 +11784,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.139735</Longtitude>
+      <Latitude>59.992618</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10492,6 +11808,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.428014</Longtitude>
+      <Latitude>59.867977</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10499,6 +11819,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.077671</Longtitude>
+      <Latitude>59.82215</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10506,6 +11830,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.518366</Longtitude>
+      <Latitude>59.983594</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10526,6 +11854,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305897</Longtitude>
+      <Latitude>60.049734</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10534,6 +11866,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.41294</Longtitude>
+      <Latitude>60.014778</Latitude>
+    </Coordinate>
     <District>Калининский</District>
     <Distance>0</Distance>
   </Street>
@@ -10558,6 +11894,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.093903</Longtitude>
+      <Latitude>59.830667</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10565,6 +11905,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.135432</Longtitude>
+      <Latitude>59.778484</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10618,6 +11962,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.085378</Longtitude>
+      <Latitude>59.82096</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10654,6 +12002,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.152078</Longtitude>
+      <Latitude>59.991151</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10717,6 +12069,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.295297</Longtitude>
+      <Latitude>60.051917</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -10812,6 +12168,10 @@
       <string>Эстляндская улица,</string>
       <string>улица Стеньки Разина</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.26567</Longtitude>
+      <Latitude>59.911232</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -10821,6 +12181,10 @@
     <Category>Улицы</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.20569</Longtitude>
+      <Latitude>59.82727</Latitude>
+    </Coordinate>
     <District>Кировский</District>
     <Distance>0</Distance>
   </Street>
@@ -10965,6 +12329,10 @@
     <PreviousNames>
       <string>3-я прорезка</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.414341</Longtitude>
+      <Latitude>59.92428</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -10976,6 +12344,10 @@
     <PreviousNames>
       <string>Набережная улица (до 1958) Алтайская улица (до 1964)</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.15648</Longtitude>
+      <Latitude>59.834492</Latitude>
+    </Coordinate>
     <District>Красносельский</District>
     <Distance>0</Distance>
   </Street>
@@ -11057,8 +12429,8 @@
       <string>Офицерская улица</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.383907</Longtitude>
-      <Latitude>59.946869</Latitude>
+      <Longtitude>30.38413</Longtitude>
+      <Latitude>59.946758</Latitude>
     </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
@@ -11068,6 +12440,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.304873</Longtitude>
+      <Latitude>60.048036</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11122,6 +12498,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.075677</Longtitude>
+      <Latitude>59.825868</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11155,6 +12535,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.343716</Longtitude>
+      <Latitude>59.8543</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11163,6 +12547,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.29907</Longtitude>
+      <Latitude>59.944174</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -11171,6 +12559,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.458619</Longtitude>
+      <Latitude>59.860775</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11178,6 +12570,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.275722</Longtitude>
+      <Latitude>59.890568</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11224,6 +12620,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.091586</Longtitude>
+      <Latitude>59.827772</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11231,6 +12631,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.317252</Longtitude>
+      <Latitude>59.809618</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11333,6 +12737,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.10665</Longtitude>
+      <Latitude>59.826628</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11356,6 +12764,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.130878</Longtitude>
+      <Latitude>60.004951</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11363,6 +12775,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>36.047012</Longtitude>
+      <Latitude>56.098085</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11370,6 +12786,10 @@
     <Category>Улицы</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>36.047766</Longtitude>
+      <Latitude>56.097392</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11474,6 +12894,10 @@
     <Category>Улицы</Category>
     <Letter>1059</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.081956</Longtitude>
+      <Latitude>59.82992</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11481,6 +12905,10 @@
     <Category>Улицы</Category>
     <Letter>1059</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301792</Longtitude>
+      <Latitude>60.033818</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11488,6 +12916,10 @@
     <Category>Улицы</Category>
     <Letter>1059</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.304639</Longtitude>
+      <Latitude>60.027341</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11534,6 +12966,10 @@
     <Category>Улицы</Category>
     <Letter>1059</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.095574</Longtitude>
+      <Latitude>59.825334</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11557,6 +12993,10 @@
     <PreviousNames>
       <string>Орлово-Денисовская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.315482</Longtitude>
+      <Latitude>60.03162</Latitude>
+    </Coordinate>
     <District>Выборгский</District>
     <Distance>0</Distance>
   </Street>
@@ -11614,6 +13054,10 @@
     <Category>Улицы</Category>
     <Letter>1060</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.092367</Longtitude>
+      <Latitude>59.831245</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11650,6 +13094,10 @@
     <Category>Улицы</Category>
     <Letter>1060</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.5019</Longtitude>
+      <Latitude>59.969614</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -11671,6 +13119,10 @@
     <Category>Улицы</Category>
     <Letter>1060</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.340159</Longtitude>
+      <Latitude>59.966462</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11708,6 +13160,10 @@
       <string>3-я Артиллерийская улица</string>
       <string>улица Петра Лаврова</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.35754</Longtitude>
+      <Latitude>59.945076</Latitude>
+    </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -11729,6 +13185,10 @@
     <Category>Улицы</Category>
     <Letter>1061</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.348585</Longtitude>
+      <Latitude>59.986934</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11765,6 +13225,10 @@
     <Category>Улицы</Category>
     <Letter>1061</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.140544</Longtitude>
+      <Latitude>60.000353</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11817,6 +13281,10 @@
     <Category>Улицы</Category>
     <Letter>1061</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.090328</Longtitude>
+      <Latitude>59.820902</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -11840,6 +13308,10 @@
     <Category>Улицы</Category>
     <Letter>1061</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.321519</Longtitude>
+      <Latitude>60.05198</Latitude>
+    </Coordinate>
     <District>Выборгский</District>
     <Distance>0</Distance>
   </Street>
@@ -11970,6 +13442,10 @@
     <Category>Улицы</Category>
     <Letter>1063</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.158133</Longtitude>
+      <Latitude>59.84419</Latitude>
+    </Coordinate>
     <District>Красносельский</District>
     <Distance>0</Distance>
   </Street>
@@ -12042,6 +13518,10 @@
     <Category>Улицы</Category>
     <Letter>1063</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.468752</Longtitude>
+      <Latitude>59.86294</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12080,6 +13560,10 @@
     <Category>Улицы</Category>
     <Letter>1063</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.295961</Longtitude>
+      <Latitude>60.040303</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12176,6 +13660,10 @@
     <PreviousNames>
       <string>Бироновская дорога</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.45791</Longtitude>
+      <Latitude>59.991651</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -12284,6 +13772,10 @@
     <Category>Улицы</Category>
     <Letter>1064</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12306,6 +13798,10 @@
     <Category>Улицы</Category>
     <Letter>1064</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.143589</Longtitude>
+      <Latitude>59.783172</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12313,6 +13809,10 @@
     <Category>Улицы</Category>
     <Letter>1064</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.167341</Longtitude>
+      <Latitude>59.817192</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12320,6 +13820,10 @@
     <Category>Улицы</Category>
     <Letter>1064</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.169631</Longtitude>
+      <Latitude>59.818129</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12340,6 +13844,10 @@
     <Category>Улицы</Category>
     <Letter>1064</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.243787</Longtitude>
+      <Latitude>59.906395</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12395,6 +13903,10 @@
     <Category>Улицы</Category>
     <Letter>1065</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.29341</Longtitude>
+      <Latitude>60.02784</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -12403,6 +13915,10 @@
     <Category>Улицы</Category>
     <Letter>1065</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.081075</Longtitude>
+      <Latitude>59.827854</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12410,6 +13926,10 @@
     <Category>Улицы</Category>
     <Letter>1069</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.464108</Longtitude>
+      <Latitude>59.966728</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12417,6 +13937,10 @@
     <Category>Улицы</Category>
     <Letter>1069</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.323692</Longtitude>
+      <Latitude>60.010115</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12424,6 +13948,10 @@
     <Category>Улицы</Category>
     <Letter>1069</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.101521</Longtitude>
+      <Latitude>59.832869</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12431,6 +13959,10 @@
     <Category>Улицы</Category>
     <Letter>1069</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.311781</Longtitude>
+      <Latitude>60.04135</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12451,6 +13983,10 @@
     <Category>Улицы</Category>
     <Letter>1069</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.288389</Longtitude>
+      <Latitude>60.028708</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12458,6 +13994,10 @@
     <Category>Улицы</Category>
     <Letter>1070</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.170251</Longtitude>
+      <Latitude>59.990782</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12480,6 +14020,10 @@
     <Category>Улицы</Category>
     <Letter>1070</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.148054</Longtitude>
+      <Latitude>59.99908</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12659,6 +14203,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.28864</Longtitude>
+      <Latitude>59.930435</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12698,6 +14246,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.36223</Longtitude>
+      <Latitude>59.952871</Latitude>
+    </Coordinate>
     <District>Калининский</District>
     <Distance>0</Distance>
   </Street>
@@ -12706,6 +14258,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.267988</Longtitude>
+      <Latitude>59.904053</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12714,6 +14270,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.36294</Longtitude>
+      <Latitude>59.907695</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12766,6 +14326,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.251055</Longtitude>
+      <Latitude>59.903625</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12780,6 +14344,10 @@
       <string>Корпусная набережная,</string>
       <string>проспект с Тучкова моста</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.28316</Longtitude>
+      <Latitude>59.955002</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -12800,6 +14368,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.271312</Longtitude>
+      <Latitude>60.046149</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12807,6 +14379,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.310559</Longtitude>
+      <Latitude>59.96888</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12840,6 +14416,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.296339</Longtitude>
+      <Latitude>59.924366</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12864,6 +14444,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.3337</Longtitude>
+      <Latitude>59.944129</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12928,6 +14512,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.307855</Longtitude>
+      <Latitude>59.931639</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -12990,6 +14578,10 @@
     <PreviousNames>
       <string>набережная Бехтерева</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.2935</Longtitude>
+      <Latitude>59.976639</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -13011,6 +14603,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.284059</Longtitude>
+      <Latitude>59.930286</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13033,6 +14629,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.329549</Longtitude>
+      <Latitude>59.912337</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13040,6 +14640,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.466686</Longtitude>
+      <Latitude>59.922616</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13062,6 +14666,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.427035</Longtitude>
+      <Latitude>59.904022</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13103,6 +14711,10 @@
       <string>Дворянская набережная,</string>
       <string>Петербургская набережная</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.334742</Longtitude>
+      <Latitude>59.96107</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -13140,6 +14752,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.2162</Longtitude>
+      <Latitude>59.898765</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13196,6 +14812,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.131426</Longtitude>
+      <Latitude>59.772333</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13203,6 +14823,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.309562</Longtitude>
+      <Latitude>60.043251</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13210,6 +14834,10 @@
     <Category>Набережные</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.261709</Longtitude>
+      <Latitude>59.948672</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13343,6 +14971,10 @@
     <PreviousNames>
       <string>Проспект Маклина</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.285936</Longtitude>
+      <Latitude>59.92198</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -13473,6 +15105,10 @@
     <Category>Проспекты</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.09111</Longtitude>
+      <Latitude>59.843426</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13554,6 +15190,10 @@
       <string>Беляевская дорога</string>
       <string>Беляевский проспект</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.457083</Longtitude>
+      <Latitude>59.9858</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -13892,6 +15532,10 @@
     <Category>Проспекты</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.137822</Longtitude>
+      <Latitude>60.000222</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -13937,6 +15581,10 @@
       <string>Средняя перспектива,</string>
       <string>Средний проспект</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.32354</Longtitude>
+      <Latitude>59.91503</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -13945,6 +15593,10 @@
     <Category>Проспекты</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.145494</Longtitude>
+      <Latitude>59.999534</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -14085,6 +15737,10 @@
       <string>Петровский проспект,</string>
       <string>Кольская улица.</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.261987</Longtitude>
+      <Latitude>59.96911</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -14190,6 +15846,10 @@
     <Category>Проспекты</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.086573</Longtitude>
+      <Latitude>59.829427</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -14241,8 +15901,8 @@
       <string />
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.295952</Longtitude>
-      <Latitude>59.918598</Latitude>
+      <Longtitude>30.297316</Longtitude>
+      <Latitude>59.91671</Latitude>
     </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
@@ -14560,6 +16220,10 @@
     <PreviousNames>
       <string>Новый Петергофский проспект</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.27398</Longtitude>
+      <Latitude>59.904189</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -14733,6 +16397,10 @@
     <Category>Проспекты</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.156543</Longtitude>
+      <Latitude>59.866337</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -14740,6 +16408,10 @@
     <Category>Проспекты</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305636</Longtitude>
+      <Latitude>60.028658</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -14803,6 +16475,10 @@
     <Category>Проспекты</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.14102</Longtitude>
+      <Latitude>59.999426</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -14823,6 +16499,10 @@
     <Category>Проспекты</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.447777</Longtitude>
+      <Latitude>59.875858</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -14878,6 +16558,10 @@
     <PreviousNames>
       <string>Екатерингофский проспект</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.294803</Longtitude>
+      <Latitude>59.92258</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -14887,6 +16571,10 @@
     <Category>Проспекты</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.47293</Longtitude>
+      <Latitude>59.928217</Latitude>
+    </Coordinate>
     <District>Невский</District>
     <Distance>0</Distance>
   </Street>
@@ -14923,6 +16611,10 @@
     <Category>Проспекты</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.340006</Longtitude>
+      <Latitude>59.968011</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -14989,8 +16681,8 @@
     <Letter>1057</Letter>
     <PreviousNames />
     <Coordinate>
-      <Longtitude>30.394201</Longtitude>
-      <Latitude>59.859637</Latitude>
+      <Longtitude>30.3904</Longtitude>
+      <Latitude>59.8583</Latitude>
     </Coordinate>
     <District>Фрунзенский</District>
     <Distance>0</Distance>
@@ -15032,6 +16724,10 @@
     <Category>Проспекты</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.54113</Longtitude>
+      <Latitude>59.829247</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15065,6 +16761,10 @@
     <Category>Проспекты</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.440455</Longtitude>
+      <Latitude>59.919513</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15543,6 +17243,10 @@
     <Category>Переулки</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.307774</Longtitude>
+      <Latitude>59.93868</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -15552,6 +17256,10 @@
     <Category>Переулки</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.28555</Longtitude>
+      <Latitude>59.937112</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -15688,6 +17396,10 @@
     <Category>Переулки</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15713,6 +17425,10 @@
     <Category>Переулки</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.157414</Longtitude>
+      <Latitude>59.989823</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15720,6 +17436,10 @@
     <Category>Переулки</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.337356</Longtitude>
+      <Latitude>59.972739</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15740,6 +17460,10 @@
     <Category>Переулки</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.161376</Longtitude>
+      <Latitude>59.988802</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15747,6 +17471,10 @@
     <Category>Переулки</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.296563</Longtitude>
+      <Latitude>59.907501</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15820,6 +17548,10 @@
     <PreviousNames>
       <string>Рыночный переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.28617</Longtitude>
+      <Latitude>59.938036</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -15859,6 +17591,10 @@
     <Category>Переулки</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.375714</Longtitude>
+      <Latitude>60.062113</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15919,6 +17655,10 @@
     <Category>Переулки</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.367503</Longtitude>
+      <Latitude>60.08038</Latitude>
+    </Coordinate>
     <District>Выборгский</District>
     <Distance>0</Distance>
   </Street>
@@ -15927,6 +17667,10 @@
     <Category>Переулки</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.366596</Longtitude>
+      <Latitude>60.085599</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -15982,6 +17726,10 @@
     <Category>Переулки</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.093427</Longtitude>
+      <Latitude>59.833913</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16021,6 +17769,10 @@
     <Category>Переулки</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.085244</Longtitude>
+      <Latitude>59.822991</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16028,6 +17780,10 @@
     <Category>Переулки</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.255708</Longtitude>
+      <Latitude>59.894337</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16098,6 +17854,10 @@
     <Category>Переулки</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>33.85479</Longtitude>
+      <Latitude>59.487167</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16105,6 +17865,10 @@
     <Category>Переулки</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.156507</Longtitude>
+      <Latitude>59.990521</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16112,6 +17876,10 @@
     <Category>Переулки</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.078686</Longtitude>
+      <Latitude>59.830255</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16134,6 +17902,10 @@
     <Category>Переулки</Category>
     <Letter>1043</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.24686</Longtitude>
+      <Latitude>59.984508</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16194,6 +17966,10 @@
     <Category>Переулки</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.289592</Longtitude>
+      <Latitude>59.94307</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -16239,8 +18015,8 @@
       <string>Тарасов проезд</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.312661</Longtitude>
-      <Latitude>59.917605</Latitude>
+      <Longtitude>30.31254</Longtitude>
+      <Latitude>59.917895</Latitude>
     </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
@@ -16255,6 +18031,10 @@
       <string>2-й Апраксин переулок,</string>
       <string>Юрьевский переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.28793</Longtitude>
+      <Latitude>59.913871</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -16263,6 +18043,10 @@
     <Category>Переулки</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.297282</Longtitude>
+      <Latitude>60.033553</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16305,6 +18089,10 @@
       <string>Хлебный переулок</string>
       <string>Хлебная улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.350058</Longtitude>
+      <Latitude>59.92993</Latitude>
+    </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -16393,6 +18181,10 @@
     <Category>Переулки</Category>
     <Letter>1044</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.123287</Longtitude>
+      <Latitude>59.770158</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16400,6 +18192,10 @@
     <Category>Переулки</Category>
     <Letter>1045</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.341165</Longtitude>
+      <Latitude>59.962908</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16407,6 +18203,10 @@
     <Category>Переулки</Category>
     <Letter>1045</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.292557</Longtitude>
+      <Latitude>59.896625</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16414,6 +18214,10 @@
     <Category>Переулки</Category>
     <Letter>1046</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.326064</Longtitude>
+      <Latitude>60.001446</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16421,6 +18225,10 @@
     <Category>Переулки</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.089403</Longtitude>
+      <Latitude>59.829608</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16474,6 +18282,10 @@
     <Category>Переулки</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.337284</Longtitude>
+      <Latitude>59.971398</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16481,6 +18293,10 @@
     <Category>Переулки</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294219</Longtitude>
+      <Latitude>60.016586</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16488,6 +18304,10 @@
     <Category>Переулки</Category>
     <Letter>1047</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.290356</Longtitude>
+      <Latitude>60.025376</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16521,6 +18341,10 @@
     <Category>Переулки</Category>
     <Letter>1048</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.078919</Longtitude>
+      <Latitude>59.824633</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16529,6 +18353,10 @@
     <Category>Переулки</Category>
     <Letter>1048</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.27654</Longtitude>
+      <Latitude>59.934695</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -16537,6 +18365,10 @@
     <Category>Переулки</Category>
     <Letter>1048</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.338119</Longtitude>
+      <Latitude>59.99301</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16632,8 +18464,8 @@
       <string>Глухой</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.381158</Longtitude>
-      <Latitude>59.945702</Latitude>
+      <Longtitude>30.38111</Longtitude>
+      <Latitude>59.945465</Latitude>
     </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
@@ -16643,6 +18475,10 @@
     <Category>Переулки</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.513893</Longtitude>
+      <Latitude>59.828912</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16711,6 +18547,10 @@
     <Category>Переулки</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.263433</Longtitude>
+      <Latitude>59.972523</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16840,6 +18680,10 @@
     <Category>Переулки</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.159813</Longtitude>
+      <Latitude>59.994661</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16847,6 +18691,10 @@
     <Category>Переулки</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.448729</Longtitude>
+      <Latitude>59.680456</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16860,6 +18708,10 @@
       <string>Конно-Гвардейский переулок,</string>
       <string>2-й Конногвардейский переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.296896</Longtitude>
+      <Latitude>59.93112</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -16873,6 +18725,10 @@
       <string>Конная улица,</string>
       <string>2-й Конный переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.3246</Longtitude>
+      <Latitude>59.956431</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -16881,6 +18737,10 @@
     <Category>Переулки</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.123377</Longtitude>
+      <Latitude>59.769234</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16888,6 +18748,10 @@
     <Category>Переулки</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.123377</Longtitude>
+      <Latitude>59.769234</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -16908,6 +18772,10 @@
     <Category>Переулки</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.339027</Longtitude>
+      <Latitude>59.969637</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17088,6 +18956,10 @@
     <Category>Переулки</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.327223</Longtitude>
+      <Latitude>59.920997</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17095,6 +18967,10 @@
     <Category>Переулки</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.282487</Longtitude>
+      <Latitude>59.896052</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17102,6 +18978,10 @@
     <Category>Переулки</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.345234</Longtitude>
+      <Latitude>59.975774</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17109,6 +18989,10 @@
     <Category>Переулки</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.091172</Longtitude>
+      <Latitude>59.825931</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17137,6 +19021,10 @@
       <string>Церковный переулок,</string>
       <string>1-й Церковный переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.273</Longtitude>
+      <Latitude>59.914281</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -17160,6 +19048,10 @@
     <Category>Переулки</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.093715</Longtitude>
+      <Latitude>59.824891</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17167,6 +19059,10 @@
     <Category>Переулки</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.339161</Longtitude>
+      <Latitude>59.970817</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17175,6 +19071,10 @@
     <Category>Переулки</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.28944</Longtitude>
+      <Latitude>59.912887</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -17183,6 +19083,10 @@
     <Category>Переулки</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.19906</Longtitude>
+      <Latitude>59.999705</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17255,6 +19159,10 @@
     <Category>Переулки</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.285038</Longtitude>
+      <Latitude>59.897835</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17373,6 +19281,10 @@
     <PreviousNames>
       <string>Никольский переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.306193</Longtitude>
+      <Latitude>60.02601</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -17446,6 +19358,10 @@
     <Category>Переулки</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294201</Longtitude>
+      <Latitude>59.899816</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17453,6 +19369,10 @@
     <Category>Переулки</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.285667</Longtitude>
+      <Latitude>59.900962</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17657,6 +19577,10 @@
     <Category>Переулки</Category>
     <Letter>1053</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.346528</Longtitude>
+      <Latitude>59.966007</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17692,6 +19616,10 @@
     <Category>Переулки</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.425741</Longtitude>
+      <Latitude>59.903214</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17712,6 +19640,10 @@
     <Category>Переулки</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.296815</Longtitude>
+      <Latitude>60.037832</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17719,6 +19651,10 @@
     <Category>Переулки</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.295395</Longtitude>
+      <Latitude>60.036209</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17726,6 +19662,10 @@
     <Category>Переулки</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294102</Longtitude>
+      <Latitude>60.034794</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17764,6 +19704,10 @@
     <Category>Переулки</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.111115</Longtitude>
+      <Latitude>59.762877</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17800,6 +19744,10 @@
     <Category>Переулки</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.287643</Longtitude>
+      <Latitude>59.89835</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17823,6 +19771,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.313254</Longtitude>
+      <Latitude>60.04126</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17830,6 +19782,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.293707</Longtitude>
+      <Latitude>60.020327</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17853,6 +19809,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.074724</Longtitude>
+      <Latitude>59.82666</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17903,6 +19863,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.144173</Longtitude>
+      <Latitude>59.779431</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17910,6 +19874,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.144173</Longtitude>
+      <Latitude>59.779431</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17917,6 +19885,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.163747</Longtitude>
+      <Latitude>59.988878</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17924,6 +19896,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.082046</Longtitude>
+      <Latitude>59.821277</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17960,6 +19936,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.348666</Longtitude>
+      <Latitude>59.733092</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -17987,6 +19967,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.163945</Longtitude>
+      <Latitude>59.988113</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18027,6 +20011,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.163613</Longtitude>
+      <Latitude>59.988374</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18034,6 +20022,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.163613</Longtitude>
+      <Latitude>59.988374</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18041,6 +20033,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.529982</Longtitude>
+      <Latitude>59.831137</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18048,6 +20044,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.131938</Longtitude>
+      <Latitude>59.774933</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18090,6 +20090,10 @@
     <Category>Переулки</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.447004</Longtitude>
+      <Latitude>59.858358</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18151,6 +20155,10 @@
     <Category>Переулки</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.472642</Longtitude>
+      <Latitude>59.857933</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18158,6 +20166,10 @@
     <Category>Переулки</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.47169</Longtitude>
+      <Latitude>59.855566</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18165,6 +20177,10 @@
     <Category>Переулки</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.468043</Longtitude>
+      <Latitude>59.852009</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18191,6 +20207,10 @@
     <Category>Переулки</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.359571</Longtitude>
+      <Latitude>59.90584</Latitude>
+    </Coordinate>
     <District>Фрунзенский</District>
     <Distance>0</Distance>
   </Street>
@@ -18232,6 +20252,10 @@
     <Category>Переулки</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.137553</Longtitude>
+      <Latitude>59.778362</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18240,6 +20264,10 @@
     <Category>Переулки</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.13537</Longtitude>
+      <Latitude>59.841771</Latitude>
+    </Coordinate>
     <District />
     <Distance>0</Distance>
   </Street>
@@ -18248,6 +20276,10 @@
     <Category>Переулки</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.084399</Longtitude>
+      <Latitude>59.833719</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18272,6 +20304,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.143931</Longtitude>
+      <Latitude>59.778824</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18295,6 +20331,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.343536</Longtitude>
+      <Latitude>59.961107</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18319,6 +20359,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.16266</Longtitude>
+      <Latitude>59.994418</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18329,6 +20373,10 @@
     <PreviousNames>
       <string>Зимин переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.323899</Longtitude>
+      <Latitude>59.93319</Latitude>
+    </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -18352,6 +20400,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.281301</Longtitude>
+      <Latitude>59.899744</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18359,6 +20411,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.507542</Longtitude>
+      <Latitude>59.831363</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18366,6 +20422,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.517809</Longtitude>
+      <Latitude>59.829097</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18373,6 +20433,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.110477</Longtitude>
+      <Latitude>59.76415</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18383,6 +20447,10 @@
     <PreviousNames>
       <string>Гарновская улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.30995</Longtitude>
+      <Latitude>59.914136</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -18391,6 +20459,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.30993</Longtitude>
+      <Latitude>59.913816</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18398,6 +20470,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.093966</Longtitude>
+      <Latitude>59.835781</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18405,6 +20481,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.161061</Longtitude>
+      <Latitude>59.994558</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18457,6 +20537,10 @@
     <Category>Переулки</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.083142</Longtitude>
+      <Latitude>59.822299</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18490,6 +20574,10 @@
       <string>Столярная улица,</string>
       <string>улица Пржевальского</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.31188</Longtitude>
+      <Latitude>59.927279</Latitude>
+    </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
   </Street>
@@ -18621,6 +20709,10 @@
     <Category>Переулки</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.139322</Longtitude>
+      <Latitude>59.778937</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18660,6 +20752,10 @@
     <Category>Переулки</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.141083</Longtitude>
+      <Latitude>59.778077</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18667,6 +20763,10 @@
     <Category>Переулки</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.283529</Longtitude>
+      <Latitude>59.897424</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18725,6 +20825,10 @@
     <PreviousNames>
       <string>Шмелинговский переулок</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.448172</Longtitude>
+      <Latitude>59.9673</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -18733,6 +20837,10 @@
     <Category>Переулки</Category>
     <Letter>1059</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.280421</Longtitude>
+      <Latitude>59.89408</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18740,6 +20848,10 @@
     <Category>Переулки</Category>
     <Letter>1059</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.287688</Longtitude>
+      <Latitude>59.898268</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18760,6 +20872,10 @@
     <Category>Переулки</Category>
     <Letter>1059</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.435605</Longtitude>
+      <Latitude>59.931887</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18798,6 +20914,10 @@
     <Category>Переулки</Category>
     <Letter>1060</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.272884</Longtitude>
+      <Latitude>59.93277</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -18852,6 +20972,10 @@
     <Category>Переулки</Category>
     <Letter>1061</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.286682</Longtitude>
+      <Latitude>59.890081</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18863,6 +20987,10 @@
       <string>Никольский переулок,</string>
       <string>Храмовая улица</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.29421</Longtitude>
+      <Latitude>59.951885</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -18871,6 +20999,10 @@
     <Category>Переулки</Category>
     <Letter>1062</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.077698</Longtitude>
+      <Latitude>59.829672</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18893,6 +21025,10 @@
     <Category>Переулки</Category>
     <Letter>1063</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.474475</Longtitude>
+      <Latitude>59.889313</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18900,6 +21036,10 @@
     <Category>Переулки</Category>
     <Letter>1063</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.107872</Longtitude>
+      <Latitude>59.828478</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -18965,6 +21105,10 @@
     <Category>Переулки</Category>
     <Letter>1064</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.40578</Longtitude>
+      <Latitude>59.834492</Latitude>
+    </Coordinate>
     <District>Фрунзенский</District>
     <Distance>0</Distance>
   </Street>
@@ -19029,6 +21173,10 @@
     <Category>Переулки</Category>
     <Letter>1069</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.271419</Longtitude>
+      <Latitude>59.974671</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19104,6 +21252,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.302402</Longtitude>
+      <Latitude>59.94353</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -19125,6 +21277,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.308214</Longtitude>
+      <Latitude>59.907004</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19148,6 +21304,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294461</Longtitude>
+      <Latitude>60.047259</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19180,6 +21340,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.22477</Longtitude>
+      <Latitude>59.936805</Latitude>
+    </Coordinate>
     <District>Василеостровский</District>
     <Distance>0</Distance>
   </Street>
@@ -19248,6 +21412,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19293,6 +21461,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.123763</Longtitude>
+      <Latitude>60.007465</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19300,6 +21472,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.494291</Longtitude>
+      <Latitude>59.896463</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19322,6 +21498,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.269659</Longtitude>
+      <Latitude>60.031432</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19354,6 +21534,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.237616</Longtitude>
+      <Latitude>59.994504</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19373,6 +21557,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.306005</Longtitude>
+      <Latitude>60.040245</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19380,6 +21568,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.225902</Longtitude>
+      <Latitude>59.99598</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19491,6 +21683,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.309149</Longtitude>
+      <Latitude>59.82552</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19498,6 +21694,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.131731</Longtitude>
+      <Latitude>59.770616</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19505,6 +21705,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.129791</Longtitude>
+      <Latitude>59.768754</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19512,6 +21716,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.147344</Longtitude>
+      <Latitude>59.772002</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19519,6 +21727,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.357828</Longtitude>
+      <Latitude>60.091078</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19526,6 +21738,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.311799</Longtitude>
+      <Latitude>59.828799</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19546,6 +21762,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.486135</Longtitude>
+      <Latitude>59.83238</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19553,6 +21773,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.49042</Longtitude>
+      <Latitude>59.829509</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19599,6 +21823,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.493285</Longtitude>
+      <Latitude>59.827492</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19606,6 +21834,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.497804</Longtitude>
+      <Latitude>59.827569</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19673,6 +21905,10 @@
     <Category>Проезды</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.282909</Longtitude>
+      <Latitude>59.853704</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19732,6 +21968,10 @@
     <Category>Площади</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.369902</Longtitude>
+      <Latitude>60.007983</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19739,6 +21979,10 @@
     <Category>Площади</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.333466</Longtitude>
+      <Latitude>59.984202</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19746,6 +21990,10 @@
     <Category>Площади</Category>
     <Letter>1040</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.303597</Longtitude>
+      <Latitude>59.947928</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19812,8 +22060,8 @@
     <Letter>1041</Letter>
     <PreviousNames />
     <Coordinate>
-      <Longtitude>30.298737</Longtitude>
-      <Latitude>59.907659</Latitude>
+      <Longtitude>30.298983</Longtitude>
+      <Latitude>59.9081</Latitude>
     </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
@@ -19851,6 +22099,10 @@
     <Category>Площади</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.400498</Longtitude>
+      <Latitude>59.901599</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19858,6 +22110,10 @@
     <Category>Площади</Category>
     <Letter>1041</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305286</Longtitude>
+      <Latitude>59.944044</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19865,6 +22121,10 @@
     <Category>Площади</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.314206</Longtitude>
+      <Latitude>59.862162</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19872,6 +22132,10 @@
     <Category>Площади</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.327977</Longtitude>
+      <Latitude>59.920321</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19894,6 +22158,10 @@
     <Category>Площади</Category>
     <Letter>1042</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.345728</Longtitude>
+      <Latitude>59.959435</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -19962,6 +22230,10 @@
     <Category>Площади</Category>
     <Letter>1045</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.210298</Longtitude>
+      <Latitude>59.937846</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20170,6 +22442,10 @@
     <Category>Площади</Category>
     <Letter>1050</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.428499</Longtitude>
+      <Latitude>59.89292</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20199,8 +22475,8 @@
       <string>Чернышевская пл.</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.334562</Longtitude>
-      <Latitude>59.929209</Latitude>
+      <Longtitude>30.3346</Longtitude>
+      <Latitude>59.928825</Latitude>
     </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
@@ -20210,6 +22486,10 @@
     <Category>Площади</Category>
     <Letter>1051</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.285721</Longtitude>
+      <Latitude>60.013411</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20303,6 +22583,10 @@
     <Category>Площади</Category>
     <Letter>1052</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.30357</Longtitude>
+      <Latitude>59.951092</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -20324,6 +22608,10 @@
     <Category>Площади</Category>
     <Letter>1054</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.317943</Longtitude>
+      <Latitude>59.922368</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20351,6 +22639,10 @@
     <Category>Площади</Category>
     <Letter>1055</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.25313</Longtitude>
+      <Latitude>59.962034</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -20363,8 +22655,8 @@
       <string>Семёновский плац</string>
     </PreviousNames>
     <Coordinate>
-      <Longtitude>30.333349</Longtitude>
-      <Latitude>59.921245</Latitude>
+      <Longtitude>30.3341</Longtitude>
+      <Latitude>59.920322</Latitude>
     </Coordinate>
     <District>Адмиралтейский</District>
     <Distance>0</Distance>
@@ -20394,6 +22686,10 @@
       <string>Писателя Радищева,</string>
       <string>Радищева</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.351919</Longtitude>
+      <Latitude>59.94305</Latitude>
+    </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -20466,6 +22762,10 @@
     <Category>Площади</Category>
     <Letter>1056</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.509716</Longtitude>
+      <Latitude>59.980965</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20500,6 +22800,10 @@
     <Category>Площади</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.407006</Longtitude>
+      <Latitude>60.0219</Latitude>
+    </Coordinate>
     <District>Калининский</District>
     <Distance>0</Distance>
   </Street>
@@ -20508,6 +22812,10 @@
     <Category>Площади</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.327717</Longtitude>
+      <Latitude>59.924654</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20550,6 +22858,10 @@
     <Category>Площади</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.263775</Longtitude>
+      <Latitude>60.013263</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20557,6 +22869,10 @@
     <Category>Площади</Category>
     <Letter>1057</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.254837</Longtitude>
+      <Latitude>59.933244</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20637,6 +22953,10 @@
     <Category>Площади</Category>
     <Letter>1058</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.318671</Longtitude>
+      <Latitude>59.917384</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20743,6 +23063,10 @@
     <Category>Площади</Category>
     <Letter>1064</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.307056</Longtitude>
+      <Latitude>59.96707</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -20883,6 +23207,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.082513</Longtitude>
+      <Latitude>59.834388</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20890,6 +23218,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.548244</Longtitude>
+      <Latitude>59.973037</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20897,6 +23229,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.548244</Longtitude>
+      <Latitude>59.973037</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20917,6 +23253,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.080483</Longtitude>
+      <Latitude>59.833669</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20924,6 +23264,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.549996</Longtitude>
+      <Latitude>59.973172</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20931,6 +23275,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.549996</Longtitude>
+      <Latitude>59.973172</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20951,6 +23299,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.078776</Longtitude>
+      <Latitude>59.833909</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20958,6 +23310,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.549789</Longtitude>
+      <Latitude>59.975698</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20965,6 +23321,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.549789</Longtitude>
+      <Latitude>59.975698</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20972,6 +23332,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.296006</Longtitude>
+      <Latitude>60.017211</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -20980,6 +23344,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.28308</Longtitude>
+      <Latitude>60.02102</Latitude>
+    </Coordinate>
     <District>Приморский</District>
     <Distance>0</Distance>
   </Street>
@@ -21001,6 +23369,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.07759</Longtitude>
+      <Latitude>59.834696</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21008,6 +23380,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.552835</Longtitude>
+      <Latitude>59.975459</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21028,6 +23404,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.075919</Longtitude>
+      <Latitude>59.8347</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21035,6 +23415,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.553787</Longtitude>
+      <Latitude>59.976094</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21055,6 +23439,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.074419</Longtitude>
+      <Latitude>59.835116</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21075,6 +23463,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.073296</Longtitude>
+      <Latitude>59.836165</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21184,6 +23576,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.265751</Longtitude>
+      <Latitude>59.939712</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21191,6 +23587,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.265625</Longtitude>
+      <Latitude>59.939559</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21250,6 +23650,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.263335</Longtitude>
+      <Latitude>59.932991</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21257,6 +23661,10 @@
     <Category>Линии</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.263335</Longtitude>
+      <Latitude>59.932991</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21378,6 +23786,10 @@
     <PreviousNames>
       <string>(Большая) Суровская линия</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.32893</Longtitude>
+      <Latitude>59.933347</Latitude>
+    </Coordinate>
     <District>Центральный</District>
     <Distance>0</Distance>
   </Street>
@@ -21413,6 +23825,10 @@
     <PreviousNames>
       <string>Берёзовая аллея</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.373567</Longtitude>
+      <Latitude>60.02343</Latitude>
+    </Coordinate>
     <District>Калининский</District>
     <Distance>0</Distance>
   </Street>
@@ -21421,6 +23837,10 @@
     <Category>Аллеи</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347767</Longtitude>
+      <Latitude>60.002845</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21441,6 +23861,10 @@
     <Category>Аллеи</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.42496</Longtitude>
+      <Latitude>59.949289</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21506,6 +23930,10 @@
     <Category>Аллеи</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.231858</Longtitude>
+      <Latitude>59.973712</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21599,6 +24027,10 @@
     <Category>Аллеи</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.256489</Longtitude>
+      <Latitude>59.985143</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21726,6 +24158,10 @@
     <PreviousNames>
       <string>Сквозной проезд</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.28069</Longtitude>
+      <Latitude>59.979065</Latitude>
+    </Coordinate>
     <District>Петроградский</District>
     <Distance>0</Distance>
   </Street>
@@ -21734,6 +24170,10 @@
     <Category>Аллеи</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.231373</Longtitude>
+      <Latitude>59.970898</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21741,6 +24181,10 @@
     <Category>Аллеи</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.22609</Longtitude>
+      <Latitude>59.972577</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21847,6 +24291,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.070907</Longtitude>
+      <Latitude>59.83352</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21854,6 +24302,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.134902</Longtitude>
+      <Latitude>59.78141</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21877,6 +24329,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.299636</Longtitude>
+      <Latitude>59.89779</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21930,6 +24386,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.697715</Longtitude>
+      <Latitude>59.773955</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -21938,6 +24398,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.149231</Longtitude>
+      <Latitude>59.99494</Latitude>
+    </Coordinate>
     <District>Приморский, Курортный</District>
     <Distance>0</Distance>
   </Street>
@@ -21993,6 +24457,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.97661</Longtitude>
+      <Latitude>59.867841</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22000,6 +24468,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.090598</Longtitude>
+      <Latitude>59.751274</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22007,6 +24479,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.276576</Longtitude>
+      <Latitude>60.060388</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22040,6 +24516,10 @@
     <Category>Шоссе</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.593627</Longtitude>
+      <Latitude>59.809043</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22089,6 +24569,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.24208</Longtitude>
+      <Latitude>60.057815</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22096,6 +24580,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.124608</Longtitude>
+      <Latitude>60.035</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22116,6 +24604,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.464162</Longtitude>
+      <Latitude>60.021982</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22141,6 +24633,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.450687</Longtitude>
+      <Latitude>59.94755</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -22162,6 +24658,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.163415</Longtitude>
+      <Latitude>59.989531</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22169,6 +24669,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.447166</Longtitude>
+      <Latitude>60.001901</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22179,6 +24683,10 @@
     <PreviousNames>
       <string>дорога в деревню Рыбацкое</string>
     </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.486234</Longtitude>
+      <Latitude>60.00083</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -22200,6 +24708,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.236978</Longtitude>
+      <Latitude>59.975144</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22220,6 +24732,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.238909</Longtitude>
+      <Latitude>59.868329</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22227,6 +24743,10 @@
     <Category>Дороги</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.231211</Longtitude>
+      <Latitude>59.864701</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22260,6 +24780,10 @@
     <Category>Бульвары</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.131498</Longtitude>
+      <Latitude>59.769642</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22299,6 +24823,10 @@
     <Category>Бульвары</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.441659</Longtitude>
+      <Latitude>59.870881</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22393,6 +24921,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.47434</Longtitude>
+      <Latitude>59.962336</Latitude>
+    </Coordinate>
     <District>Красногвардейский</District>
     <Distance>0</Distance>
   </Street>
@@ -22401,6 +24933,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.121527</Longtitude>
+      <Latitude>60.007726</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22408,6 +24944,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.111915</Longtitude>
+      <Latitude>60.010214</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22415,6 +24955,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.109336</Longtitude>
+      <Latitude>60.019293</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22422,6 +24966,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.149419</Longtitude>
+      <Latitude>59.995975</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22441,6 +24989,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.265643</Longtitude>
+      <Latitude>59.926864</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22448,6 +25000,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.254298</Longtitude>
+      <Latitude>59.910902</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22455,6 +25011,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301387</Longtitude>
+      <Latitude>59.901712</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22475,6 +25035,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.405664</Longtitude>
+      <Latitude>59.891069</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22495,6 +25059,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.440527</Longtitude>
+      <Latitude>59.925926</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22502,6 +25070,10 @@
     <Category>Прочее</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.42628</Longtitude>
+      <Latitude>59.933568</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22533,6 +25105,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.231786</Longtitude>
+      <Latitude>59.898079</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22552,6 +25128,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.23528</Longtitude>
+      <Latitude>59.888627</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22571,6 +25151,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.226495</Longtitude>
+      <Latitude>59.890442</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22602,6 +25186,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.202986</Longtitude>
+      <Latitude>59.881227</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22621,6 +25209,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.440527</Longtitude>
+      <Latitude>60.031207</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22628,6 +25220,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.275004</Longtitude>
+      <Latitude>59.901111</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22647,6 +25243,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.461144</Longtitude>
+      <Latitude>60.026671</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22668,8 +25268,8 @@
     <Letter>1071</Letter>
     <PreviousNames />
     <Coordinate>
-      <Longtitude>30.333951</Longtitude>
-      <Latitude>60.066994</Latitude>
+      <Longtitude>30.3605</Longtitude>
+      <Latitude>60.057417</Latitude>
     </Coordinate>
     <Distance>0</Distance>
   </Street>
@@ -22690,6 +25290,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.432541</Longtitude>
+      <Latitude>59.990759</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22709,6 +25313,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.486817</Longtitude>
+      <Latitude>60.002085</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22728,6 +25336,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.161798</Longtitude>
+      <Latitude>59.823634</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22735,6 +25347,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.407532</Longtitude>
+      <Latitude>59.878057</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22743,6 +25359,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.297833</Longtitude>
+      <Latitude>60.04675</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
   <Street>
@@ -22750,6 +25370,10 @@
     <Category>Территориальные зоны</Category>
     <Letter>1071</Letter>
     <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.190338</Longtitude>
+      <Latitude>59.875095</Latitude>
+    </Coordinate>
     <Distance>0</Distance>
   </Street>
 </ArrayOfStreet>
