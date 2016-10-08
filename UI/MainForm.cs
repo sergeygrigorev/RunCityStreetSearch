@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -188,6 +189,11 @@ namespace UI
 		private void cboDistricts_SelectedIndexChanged(object sender, EventArgs e)
 		{
 			Refresh();
+		}
+
+		private void dataGridView1_Sorted(object sender, EventArgs e)
+		{
+			PaintGrid();
 		}
 
 		private void button1_Click(object sender, EventArgs e)
