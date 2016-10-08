@@ -1,6 +1,3420 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStreet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Street>
+    <Title>Большой Обуховский мост (вантовый)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/99897</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.493611111111111</Longtitude>
+      <Latitude>59.854166666666671</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Володарский мост (2:00-3:45; 4:15-5:45)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/46175</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.453328</Longtitude>
+      <Latitude>59.877786</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Финляндский железнодорожный мост (2:30-5:10)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/36139</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.409456</Longtitude>
+      <Latitude>59.915494</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Александра Невского (2:20-5:05)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1047203</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.395789</Longtitude>
+      <Latitude>59.925764</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большеохтинский мост (бывший Петра Великого) (2:00-5:00)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/45701</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.401319</Longtitude>
+      <Latitude>59.942708</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Литейный мост (бывший мост Императора Александра II) (1:50-4:40)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/45697</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.349361</Longtitude>
+      <Latitude>59.951592</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Троицкий мост (бывший Кировский мост, мост Равенства) (1:50-4:50)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/42643</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.327406</Longtitude>
+      <Latitude>59.948753</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Дворцовый мост (бывший Республиканский мост) (1:35-2:55; 3:15-4:50) (По состоянию на 2009-09-26 разводится по графику 1:35-4:50)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/45419</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.308475</Longtitude>
+      <Latitude>59.941111</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Благовещенский мост (бывший Благовещенский мост, Николаевский мост, мост Лейтенанта Шмидта до 2007 года) (1:40-4:55) (По состоянию на 2009-09-26 разводится по графику 1:40-2:30; 3:00-4:55)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/45037</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.289706</Longtitude>
+      <Latitude>59.934661</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Биржевой мост (бывший мост Строителей) (2:10-4:50)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/250189</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.303386</Longtitude>
+      <Latitude>59.946256</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Тучков мост (2:10-3:05; 3:35-4:45)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/244511</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.285597</Longtitude>
+      <Latitude>59.949014</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сампсониевский мост (бывший мост Свободы) (2:10-2:45; 3:20-4:25)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/118860</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.337078</Longtitude>
+      <Latitude>59.957956</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Гренадерский мост (2:45-3:45; 4:20-4:50)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/327455</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.334611</Longtitude>
+      <Latitude>59.967922</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Кантемировский мост (2:45-3:45; 4:20-4:50)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/416419</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.3219</Longtitude>
+      <Latitude>59.978506</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ушаковский мост (бывший Строгановский мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/694443</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.300181</Longtitude>
+      <Latitude>59.982547</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>3-й Елагин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/448076</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.25425</Longtitude>
+      <Latitude>59.9825</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Елагин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/415369</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.27138888888889</Longtitude>
+      <Latitude>59.9775</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Елагин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/420401</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.258089</Longtitude>
+      <Latitude>59.975494</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Каменноостровский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/154314</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301388888888891</Longtitude>
+      <Latitude>59.977777777777781</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большой Крестовский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/154313</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.280555555555555</Longtitude>
+      <Latitude>59.966944444444444</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Лазаревский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1540071</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.273888888888887</Longtitude>
+      <Latitude>59.965277777777779</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большой Петровский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/154309</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.254747</Longtitude>
+      <Latitude>59.964894</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й мост Круштейна</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/343735</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.290506</Longtitude>
+      <Latitude>59.930936</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й мост Круштейна</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/344675</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.286444</Longtitude>
+      <Latitude>59.929614</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>20-й Каменноостровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.285146</Longtitude>
+      <Latitude>59.98151</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>6-й Каменноостровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>7-й Каменноостровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>9-й Каменноостровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.28643</Longtitude>
+      <Latitude>59.979862</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>11-й Каменноостровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.283268</Longtitude>
+      <Latitude>59.978458</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>14-й Каменноостровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.277797</Longtitude>
+      <Latitude>59.976044</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Бумажный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1758990</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.261942</Longtitude>
+      <Latitude>59.906039</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сутугин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/328262</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.268981</Longtitude>
+      <Latitude>59.902414</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й безымянный автомобильный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.253148</Longtitude>
+      <Latitude>59.982689</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й безымянный автомобильный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.253148</Longtitude>
+      <Latitude>59.982689</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>безымянный железнодорожный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.357334</Longtitude>
+      <Latitude>59.734298</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Витебский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.379433</Longtitude>
+      <Latitude>59.821951</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Балканский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>4-й Волковский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Волковский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.365284</Longtitude>
+      <Latitude>59.854111</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Белградский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.355753</Longtitude>
+      <Latitude>59.874345</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Алмазный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/453179</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.353055555555557</Longtitude>
+      <Latitude>59.878888888888888</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>3-й Волковский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Волковский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.353013</Longtitude>
+      <Latitude>59.889756</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Касимовский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.354621</Longtitude>
+      <Latitude>59.897036</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Волковский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1414510</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.359744</Longtitude>
+      <Latitude>59.899444</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Старообрядческий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/328257</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.364189</Longtitude>
+      <Latitude>59.904689</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Грааповский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1469341</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.359185</Longtitude>
+      <Latitude>59.910884</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Лесопильный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1543994</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.361111111111114</Longtitude>
+      <Latitude>59.911944444444444</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Кирпичный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1321518</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.361944444444447</Longtitude>
+      <Latitude>59.913611111111109</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Инженерный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/198113</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.339925</Longtitude>
+      <Latitude>59.940141</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Трёхчастный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/198455</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>5-й Ржевский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.506014</Longtitude>
+      <Latitude>59.981636</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>4-й Ржевский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>3-й Ржевский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.501586</Longtitude>
+      <Latitude>59.976981</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Театральный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121427</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.329103</Longtitude>
+      <Latitude>59.941478</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Конюшенный мост (бывший мост-перекрытие, мост Гриневицкого)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117910</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.328458</Longtitude>
+      <Latitude>59.940697</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Итальянский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/109691</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.327033</Longtitude>
+      <Latitude>59.937247</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Казанский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/109574</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.326372</Longtitude>
+      <Latitude>59.935294</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Банковский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/109556</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.324856</Longtitude>
+      <Latitude>59.932161</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мучной мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117329</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.320992</Longtitude>
+      <Latitude>59.931069</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Каменный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/118167</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319044</Longtitude>
+      <Latitude>59.930475</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Демидов мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117936</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315447</Longtitude>
+      <Latitude>59.928725</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сенной мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117369</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315153</Longtitude>
+      <Latitude>59.926533</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Кокушкин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117334</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.313594</Longtitude>
+      <Latitude>59.925844</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Вознесенский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/118173</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.308094</Longtitude>
+      <Latitude>59.926467</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Подьяческий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/118242</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305633</Longtitude>
+      <Latitude>59.926803</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Львиный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1549269</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301388888888891</Longtitude>
+      <Latitude>59.926944444444445</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Харламов мост (бывший Комсомольский мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/118252</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.303055555555556</Longtitude>
+      <Latitude>59.924166666666665</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Никольский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121021</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.303055555555556</Longtitude>
+      <Latitude>59.921944444444442</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Красногвардейский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/120973</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.299166666666668</Longtitude>
+      <Latitude>59.921111111111109</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пикалов мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/118611</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.298333333333336</Longtitude>
+      <Latitude>59.920833333333334</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Могилёвский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/120730</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.293055555555558</Longtitude>
+      <Latitude>59.921666666666667</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Аларчин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/120736</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.287</Longtitude>
+      <Latitude>59.9207</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Коломенский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/120739</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.284722222222225</Longtitude>
+      <Latitude>59.919444444444444</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мало-Калинкин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/120945</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.281111111111109</Longtitude>
+      <Latitude>59.916666666666664</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Старо-Пановский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1336080</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.18277777777778</Longtitude>
+      <Latitude>59.815277777777773</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>мост Народного Ополчения</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1319008</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.186666666666667</Longtitude>
+      <Latitude>59.823611111111113</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Авангардный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1276344</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.186111</Longtitude>
+      <Latitude>59.827617</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>мост Ветеранов</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1319003</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.186666666666667</Longtitude>
+      <Latitude>59.833055555555561</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>мост Партизана Германа</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1389913</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.175425</Longtitude>
+      <Latitude>59.845175</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Петергофский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.158753</Longtitude>
+      <Latitude>59.846698</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Петергофский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.158816</Longtitude>
+      <Latitude>59.847544</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>мост Героев (строится, название не утверждено)</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.155941</Longtitude>
+      <Latitude>59.85919</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Екатерингофский мост (Рижский мост)</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.261987</Longtitude>
+      <Latitude>59.912779</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Гутуевский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.259634</Longtitude>
+      <Latitude>59.909044</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>безымянный железнодорожный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.357334</Longtitude>
+      <Latitude>59.734298</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Резвый мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.253759</Longtitude>
+      <Latitude>59.904766</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Ждановский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Кадетский мост (бывший 3-й Ждановский мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1305822</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.281111111111109</Longtitude>
+      <Latitude>59.955277777777781</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>4-й Ждановский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.276962</Longtitude>
+      <Latitude>59.958296</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мало-Петровский мост(бывший 5-й Ждановский мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1387015</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.271667</Longtitude>
+      <Latitude>59.961</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Зимний мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/131320</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.318644</Longtitude>
+      <Latitude>59.941458</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Зимний мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/131331</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319503</Longtitude>
+      <Latitude>59.940939</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Эрмитажный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/131351</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.316833</Longtitude>
+      <Latitude>59.942681</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Аптекарский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/170673</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.331947</Longtitude>
+      <Latitude>59.967403</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Петропавловский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/172679</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.31405</Longtitude>
+      <Latitude>59.967964</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Силин мост (бывший Пионерский мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/169206</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.307744</Longtitude>
+      <Latitude>59.969775</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Геслеровский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/173486</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.304186</Longtitude>
+      <Latitude>59.969436</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Карповский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/172988</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301247</Longtitude>
+      <Latitude>59.970153</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Барочный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/174708</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.288686</Longtitude>
+      <Latitude>59.968667</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Молодёжный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/174688</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.282808</Longtitude>
+      <Latitude>59.96795</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Красненький мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.261053</Longtitude>
+      <Latitude>59.863062</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Красненький мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Угольный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.235936</Longtitude>
+      <Latitude>59.863983</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мало-Крестовский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1825297</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.282298</Longtitude>
+      <Latitude>59.973253</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Иоанновский мост (ранее — Петровский)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/136700</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.322425</Longtitude>
+      <Latitude>59.952333</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Кронверкский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.309176</Longtitude>
+      <Latitude>59.949735</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Восточный Артиллерийский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.318473</Longtitude>
+      <Latitude>59.953092</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Западный Артиллерийский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.311493</Longtitude>
+      <Latitude>59.951813</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Смежный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121865</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301666666666666</Longtitude>
+      <Latitude>59.918055555555554</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Старо-Никольский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121871</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.298953</Longtitude>
+      <Latitude>59.920625</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Кашин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/122008</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.296933</Longtitude>
+      <Latitude>59.923061</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Торговый мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121447</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.295622</Longtitude>
+      <Latitude>59.924575</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Декабристов (бывший Офицерский мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/122003</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294619</Longtitude>
+      <Latitude>59.926175</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Матвеев мост (бывший Тюремный мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/128918</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.293753</Longtitude>
+      <Latitude>59.927697</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Лахтинский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.178812</Longtitude>
+      <Latitude>59.989369</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Верхний Лебяжий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/132961</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.332061</Longtitude>
+      <Latitude>59.946856</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Нижний Лебяжий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/132969</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.335858</Longtitude>
+      <Latitude>59.941414</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Поселковый мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.526541</Longtitude>
+      <Latitude>59.981006</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Всеволожский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.523666</Longtitude>
+      <Latitude>59.978291</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Камышинский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.51409</Longtitude>
+      <Latitude>59.975446</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Рябовский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.504451</Longtitude>
+      <Latitude>59.971398</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Андреевский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.497022</Longtitude>
+      <Latitude>59.970461</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Жерновский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.49439</Longtitude>
+      <Latitude>59.966394</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Колтушский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.484778</Longtitude>
+      <Latitude>59.965687</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Лупповский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Малый Ильинский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.473549</Longtitude>
+      <Latitude>59.962255</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>19-й Каменностровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.293698</Longtitude>
+      <Latitude>59.981802</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Каменностровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>3-й Каменностровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>4-й Каменностровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>5-й Каменностровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>мост Адмирала Трибуца (название не утверждено)</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.147156</Longtitude>
+      <Latitude>59.852285</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Инженерный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/198103</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.337777777777777</Longtitude>
+      <Latitude>59.941666666666663</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Садовый мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121808</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.335358</Longtitude>
+      <Latitude>59.941072</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Садовый мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121811</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.330222</Longtitude>
+      <Latitude>59.941472</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мало-Конюшенный мост (Тройной мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121427</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.329103</Longtitude>
+      <Latitude>59.941478</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большой Конюшенный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/329759</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.323017</Longtitude>
+      <Latitude>59.942056</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Певческий мост (бывший Жёлтый мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/327943</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319364</Longtitude>
+      <Latitude>59.940011</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Зелёный мост (бывший Полицейский мост, Народный мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/639534</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319722222222222</Longtitude>
+      <Latitude>59.93611111111111</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Красный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/330124</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315261</Longtitude>
+      <Latitude>59.932986</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Синий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/328242</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.308888888888891</Longtitude>
+      <Latitude>59.931666666666665</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Фонарный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/330221</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.303847</Longtitude>
+      <Latitude>59.930642</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Почтамтский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/204336</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.300825</Longtitude>
+      <Latitude>59.930472</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Поцелуев мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/210008</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.295</Longtitude>
+      <Latitude>59.928333333333327</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Краснофлотский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/330620</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294022</Longtitude>
+      <Latitude>59.927961</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Храповицкий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/328299</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.285208</Longtitude>
+      <Latitude>59.929056</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Корабельный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/330641</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.275425</Longtitude>
+      <Latitude>59.926614</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Обуховской обороны</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1833934</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.391722</Longtitude>
+      <Latitude>59.923153</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Монастырский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390374</Longtitude>
+      <Latitude>59.922873</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Лаврский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/530206</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.387222222222221</Longtitude>
+      <Latitude>59.9225</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Лаврский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1415803</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.384688</Longtitude>
+      <Latitude>59.921678</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>мост в створе Атаманской улицы</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.332083</Longtitude>
+      <Latitude>59.946896</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Казачий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/327842</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.382128</Longtitude>
+      <Latitude>59.916681</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Северный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.377106</Longtitude>
+      <Latitude>60.030227</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Гражданский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.409041</Longtitude>
+      <Latitude>60.024181</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Муринский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.461808</Longtitude>
+      <Latitude>60.0257</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Адмиралтейский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.283789</Longtitude>
+      <Latitude>59.930282</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Новый мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.210702</Longtitude>
+      <Latitude>59.83324</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>мост Бурцева</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.212328</Longtitude>
+      <Latitude>59.836468</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Шлиссельбургский мост (изначально — Архангелогородский)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/328313</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.397344</Longtitude>
+      <Latitude>59.919314</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Атаманский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.374609</Longtitude>
+      <Latitude>59.914904</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Американский мост (ранее — Николаевский железнодорожный мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/615045</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.367461</Longtitude>
+      <Latitude>59.914014</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Каретный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1786852</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.359722222222224</Longtitude>
+      <Latitude>59.914166666666667</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Предтеченский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/328231</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.355103</Longtitude>
+      <Latitude>59.914525</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Каменный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1321517</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.350555555555555</Longtitude>
+      <Latitude>59.915277777777774</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Боровой мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1366328</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.344753</Longtitude>
+      <Latitude>59.915986</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ипподромный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1378517</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.336666666666666</Longtitude>
+      <Latitude>59.914444444444442</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Царскосельский железнодорожный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1343752</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.288209</Longtitude>
+      <Latitude>59.989657</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Рузовский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1331009</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.332777777777778</Longtitude>
+      <Latitude>59.913055555555552</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Можайский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1318446</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.331388888888888</Longtitude>
+      <Latitude>59.9125</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Газовый мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1773282</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.327393</Longtitude>
+      <Latitude>59.911223</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Масляный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1827450</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.324591</Longtitude>
+      <Latitude>59.910199</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Московский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1579542</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.318361</Longtitude>
+      <Latitude>59.908667</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Варшавский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/354902</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.307172</Longtitude>
+      <Latitude>59.908761</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Митрофаньевский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/383691</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.300536</Longtitude>
+      <Latitude>59.908869</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Балтийский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/383754</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.300306</Longtitude>
+      <Latitude>59.908894</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Петергофский мост (Ранее носил названия Штиглицкий и Лермонтовский)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1579547</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.297777777777778</Longtitude>
+      <Latitude>59.908888888888889</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Краснооктябрьский мост (ранее - Лейхтенбергский мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1531830</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294167</Longtitude>
+      <Latitude>59.909</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Таракановский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/160566</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.287747</Longtitude>
+      <Latitude>59.909061</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Борисов мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1754465</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.282083</Longtitude>
+      <Latitude>59.909111</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Калинкин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/501934</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.275144</Longtitude>
+      <Latitude>59.909186</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Степана Разина (ранее - Эстляндский мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/154232</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.264158</Longtitude>
+      <Latitude>59.909228</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Дыбенко</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.49607</Longtitude>
+      <Latitude>59.909923</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Товарищеский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.488587</Longtitude>
+      <Latitude>59.911362</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Подвойского</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.482542</Longtitude>
+      <Latitude>59.914538</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Коллонтай</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.473433</Longtitude>
+      <Latitude>59.920348</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Российский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/333816</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.471019</Longtitude>
+      <Latitude>59.921636</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ледовый мост (неофициальное название)</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Клочков мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.465851</Longtitude>
+      <Latitude>59.923211</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Долгоруков мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.450193</Longtitude>
+      <Latitude>59.927193</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большой Яблоновский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/621596</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.436667</Longtitude>
+      <Latitude>59.927308</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Яблоновский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1689359</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.43</Longtitude>
+      <Latitude>59.929722222222217</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Заневский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/638916</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.428055555555556</Longtitude>
+      <Latitude>59.93194444444444</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Уткин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/328295</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.422978</Longtitude>
+      <Latitude>59.933939</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Челябинский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.491381</Longtitude>
+      <Latitude>60.008351</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Беляевский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1745063</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.495094</Longtitude>
+      <Latitude>59.984575</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Капсюльный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1514859</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.491666666666667</Longtitude>
+      <Latitude>59.975277777777777</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Плотина Коммунаров</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большой Ильинский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/121122</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.470425</Longtitude>
+      <Latitude>59.964722</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Армашевский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.468492</Longtitude>
+      <Latitude>59.961868</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Индустриальный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1378273</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.464444444444442</Longtitude>
+      <Latitude>59.958333333333336</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Объездной мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.455745</Longtitude>
+      <Latitude>59.95416</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ириновский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.455987</Longtitude>
+      <Latitude>59.953295</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Энергетиков</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.435254</Longtitude>
+      <Latitude>59.936575</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Шаумяна</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.415437</Longtitude>
+      <Latitude>59.934109</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Комаровский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/168315</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.410757</Longtitude>
+      <Latitude>59.942565</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Малоохтинский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.406293</Longtitude>
+      <Latitude>59.946491</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Матисов мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/129007</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.278944</Longtitude>
+      <Latitude>59.927069</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Банный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/129037</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.281061</Longtitude>
+      <Latitude>59.923183</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Бердов мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/154304</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.277094</Longtitude>
+      <Latitude>59.921197</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Подзорный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/333673</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.273739</Longtitude>
+      <Latitude>59.920889</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Лахтинский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сельдяной мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Славянский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.521259</Longtitude>
+      <Latitude>59.831729</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Рыбацкий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/362005</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.521167</Longtitude>
+      <Latitude>59.834417</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Уральский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/210199</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.268556</Longtitude>
+      <Latitude>59.948833</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Смоленский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/683644</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.256666666666668</Longtitude>
+      <Latitude>59.947222222222216</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Андреевский мост (пешеходный)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1391741</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.237777777777779</Longtitude>
+      <Latitude>59.946666666666665</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Наличный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/482956</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.231388888888887</Longtitude>
+      <Latitude>59.947777777777773</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Кораблестроителей</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/661401</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.216666666666665</Longtitude>
+      <Latitude>59.95</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>3-й Смоленский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Смоленский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>4-й Смоленский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Смоленский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Молвинский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/327928</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.25725</Longtitude>
+      <Latitude>59.900472</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Русановский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.491623</Longtitude>
+      <Latitude>59.864037</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Прачечный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/140846</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.336388888888887</Longtitude>
+      <Latitude>59.947777777777773</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пантелеймоновский мост (бывший мост Пестеля)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/141058</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.33861111111111</Longtitude>
+      <Latitude>59.94222222222222</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Белинского (до 1923 года — Симеоновский)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/407087</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.343128</Longtitude>
+      <Latitude>59.938022</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Аничков мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/33779</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.343333333333334</Longtitude>
+      <Latitude>59.93333333333333</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост Ломоносова (бывший Чернышёв мост)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/119491</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.335833333333333</Longtitude>
+      <Latitude>59.92861111111111</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Лештуков мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/327908</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.331666666666667</Longtitude>
+      <Latitude>59.926944444444445</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Семёновский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/389141</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.326942</Longtitude>
+      <Latitude>59.925217</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Горсткин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/327449</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.323888888888888</Longtitude>
+      <Latitude>59.924166666666665</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Обуховский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/327937</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.317777777777778</Longtitude>
+      <Latitude>59.921666666666667</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Измайловский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/198086</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.30777777777778</Longtitude>
+      <Latitude>59.919444444444444</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Красноармейский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/204276</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301944444444445</Longtitude>
+      <Latitude>59.917777777777772</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Египетский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/141179</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.297222222222224</Longtitude>
+      <Latitude>59.917222222222222</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Английский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/132946</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.291111111111114</Longtitude>
+      <Latitude>59.915833333333332</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Старо-Калинкин мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/204218</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.279444444444444</Longtitude>
+      <Latitude>59.916388888888889</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Галерный мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/334679</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.269219</Longtitude>
+      <Latitude>59.915517</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Карельский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1804075</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.293994</Longtitude>
+      <Latitude>59.989913</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Коломяжский путепровод</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/374085</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.299444444444447</Longtitude>
+      <Latitude>59.992777777777782</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ланской мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1384763</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301097</Longtitude>
+      <Latitude>59.989522</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Чернореченский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1382181</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.302633</Longtitude>
+      <Latitude>59.986347</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Строгановский мост[3]</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1244370</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.310194</Longtitude>
+      <Latitude>59.984219</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Головинский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/419028</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.317222</Longtitude>
+      <Latitude>59.981056</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>2-й Парковый мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.251396</Longtitude>
+      <Latitude>59.968349</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>3-й Парковый мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Шкиперский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.225956</Longtitude>
+      <Latitude>59.932685</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большой Ижорский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/816267</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.597337</Longtitude>
+      <Latitude>59.740575</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большой Чухонский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.59466</Longtitude>
+      <Latitude>59.737981</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Малый Чухонский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Никольский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.60146</Longtitude>
+      <Latitude>59.746832</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Думский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.605206</Longtitude>
+      <Latitude>59.74704</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Тверской мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.610363</Longtitude>
+      <Latitude>59.747385</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Харламов мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.302995</Longtitude>
+      <Latitude>59.92433</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Адмиралтейский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.283789</Longtitude>
+      <Latitude>59.930282</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Вознесенский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.308134</Longtitude>
+      <Latitude>59.926467</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пеньковый мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.780427</Longtitude>
+      <Latitude>59.986632</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парусный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Советский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.777723</Longtitude>
+      <Latitude>59.993127</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Синий мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1866845</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.309328</Longtitude>
+      <Latitude>59.931932</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Доковый мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1484808</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.766111111111112</Longtitude>
+      <Latitude>59.988055555555555</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Макаровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.775738</Longtitude>
+      <Latitude>59.990782</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Петровский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.254747</Longtitude>
+      <Latitude>59.965003</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Слободской мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Театральный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.328885</Longtitude>
+      <Latitude>59.941556</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Шведский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.768246</Longtitude>
+      <Latitude>59.916505</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Олений мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.4663</Longtitude>
+      <Latitude>59.689136</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Линновский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.444875</Longtitude>
+      <Latitude>59.678853</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Горбатый мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.444731</Longtitude>
+      <Latitude>59.681969</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Большой Каменный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.451271</Longtitude>
+      <Latitude>59.684031</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>мост Кентавров</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.450867</Longtitude>
+      <Latitude>59.686125</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Чугунный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.457146</Longtitude>
+      <Latitude>59.687969</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Висконтиев мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.458044</Longtitude>
+      <Latitude>59.691353</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Бертонов мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.441048</Longtitude>
+      <Latitude>59.680493</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Крестовый мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.250597</Longtitude>
+      <Latitude>59.97079</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Китайский мост</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1807126</Url>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.743318</Longtitude>
+      <Latitude>59.909301</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Драконов мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Палладиев мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Литейный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.349492</Longtitude>
+      <Latitude>59.951907</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пешеходный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.277133</Longtitude>
+      <Latitude>59.921186</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Железнодорожный-Пешеходный мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост-плотина</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Автомобильно-пешеходный над железной дорогой Разлив-Сестрорецк</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Автомобильно-пешеходный через озеро Разлив</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.001628</Longtitude>
+      <Latitude>60.086784</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Автомобильно-пешеходный над железной дорогой Курорт-Белоостров</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Офицерский мост. через реку Сестру</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.968858</Longtitude>
+      <Latitude>60.088776</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мост на ул. Воскова (автомобильный)</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.307226</Longtitude>
+      <Latitude>59.958016</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пешеходный мост у Инструментального завода</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.276962</Longtitude>
+      <Latitude>59.958296</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Вантовый. Заречная дорога, через Р. Малую Сестру</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Офицерский мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.968858</Longtitude>
+      <Latitude>60.088776</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>1-й Сестрорецкий мост</Title>
+    <Category>Мосты</Category>
+    <Letter>32</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
     <Title>Авангардная улица</Title>
     <Url>http://dic.academic.ru/dic.nsf/ruwiki/1276343</Url>
     <Category>Улицы</Category>
