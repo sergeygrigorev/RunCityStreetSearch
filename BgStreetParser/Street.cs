@@ -39,5 +39,10 @@ namespace BgStreetParser
 	{
 		public double Longtitude { get; set; }
 		public double Latitude { get; set; }
+
+		public override string ToString()
+		{
+			return Latitude.ToString(System.Globalization.CultureInfo.InvariantCulture) + "," + Longtitude.ToString(System.Globalization.CultureInfo.InvariantCulture);
+		}
 	}
 }

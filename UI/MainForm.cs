@@ -137,7 +137,7 @@ namespace UI
 			}
 
 			var i = e.ColumnIndex;
-			if (i == 2)
+			if (i == 5)
 			{
 				var s = dataGridView1.Rows[e.RowIndex].Cells[i].Value as string;
 				if (s != null)
@@ -155,6 +155,14 @@ namespace UI
 				if (comboBox1.SelectedItem as string != s)
 					comboBox1.SelectedItem = s;
 				else comboBox1.SelectedItem = "Все";
+			}
+			if (i == 3)
+			{
+				var s = dataGridView1.Rows[e.RowIndex].Cells[i].Value as Coordinate;
+				var srch = s != null ? s.ToString() : "";
+				var mf = new MapForm(srch);
+				mf.Text = srch;
+				mf.ShowDialog();
 			}
 		}
 

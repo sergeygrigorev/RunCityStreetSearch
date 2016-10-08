@@ -17,11 +17,15 @@ function init(){
 	}
 	document.getElementById("map").style.width = params.w + "px";
 	document.getElementById("map").style.height = params.h + "px";
-	initMap();
+	if (params.s){
+		var geo = ymaps.geocode(params.s);
+		geo.then(geoRes,geoErr);
+	}
+	else initMap();
 }
 
 function geoRes(res){
-	initMap();
+	initMap(res.geoObjects.get(0).geometry.getBounds());
 }
 
 function geoErr(err){
@@ -32,6 +36,7 @@ function initMap(bounds){
 	map = new ymaps.Map ("map", {
 		center: coords.center,
 		zoom: coords.zoom,
+		bounds: bounds,
 		behaviors: ["default", "scrollZoom"]
 	});
 	if (map.getZoom() > 16)
