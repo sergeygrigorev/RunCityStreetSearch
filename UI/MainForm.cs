@@ -195,5 +195,16 @@ namespace UI
 		{
 			PaintGrid();
 		}
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+			MapForm form = new MapForm();
+			form.ShowDialog();
+			var c = form.GetCoords();
+			if (!string.IsNullOrEmpty(c))
+			{
+				txtCoord.Text = c;
+			}
+		}
 	}
 }

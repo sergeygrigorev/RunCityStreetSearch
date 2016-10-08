@@ -43,8 +43,14 @@
 			this.numProximitySensitivity = new System.Windows.Forms.NumericUpDown();
 			this.cboDistricts = new System.Windows.Forms.ComboBox();
 			this.txtCoord = new System.Windows.Forms.TextBox();
+
+			this.categoryDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+			this.urlDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+			this.streetBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
+
 			this.streetBindingSource = new System.Windows.Forms.BindingSource(this.components);
 			this.streetBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+			this.button1 = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.streetBindingSource2)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
@@ -161,6 +167,7 @@
 			// 
 			// splitContainer1.Panel1
 			// 
+			this.splitContainer1.Panel1.Controls.Add(this.button1);
 			this.splitContainer1.Panel1.Controls.Add(this.numProximitySensitivity);
 			this.splitContainer1.Panel1.Controls.Add(this.cboDistricts);
 			this.splitContainer1.Panel1.Controls.Add(this.txtCoord);
@@ -209,6 +216,28 @@
 			this.txtCoord.TabIndex = 5;
 			this.txtCoord.TextChanged += new System.EventHandler(this.txtCoord_TextChanged);
 			// 
+
+			// categoryDataGridViewTextBoxColumn
+			// 
+			this.categoryDataGridViewTextBoxColumn.DataPropertyName = "Category";
+			this.categoryDataGridViewTextBoxColumn.HeaderText = "Category";
+			this.categoryDataGridViewTextBoxColumn.Name = "categoryDataGridViewTextBoxColumn";
+			this.categoryDataGridViewTextBoxColumn.ReadOnly = true;
+			this.categoryDataGridViewTextBoxColumn.Width = 80;
+			// 
+			// urlDataGridViewTextBoxColumn
+			// 
+			this.urlDataGridViewTextBoxColumn.DataPropertyName = "Url";
+			this.urlDataGridViewTextBoxColumn.HeaderText = "Url";
+			this.urlDataGridViewTextBoxColumn.Name = "urlDataGridViewTextBoxColumn";
+			this.urlDataGridViewTextBoxColumn.ReadOnly = true;
+			this.urlDataGridViewTextBoxColumn.Width = 280;
+			// 
+			// streetBindingSource2
+			// 
+			this.streetBindingSource2.DataSource = typeof(BgStreetParser.Street);
+			// 
+
 			// streetBindingSource
 			// 
 			this.streetBindingSource.DataSource = typeof(BgStreetParser.Street);
@@ -216,6 +245,16 @@
 			// streetBindingSource1
 			// 
 			this.streetBindingSource1.DataSource = typeof(BgStreetParser.Street);
+			// 
+			// button1
+			// 
+			this.button1.Location = new System.Drawing.Point(577, 82);
+			this.button1.Name = "button1";
+			this.button1.Size = new System.Drawing.Size(120, 23);
+			this.button1.TabIndex = 8;
+			this.button1.Text = "MAP";
+			this.button1.UseVisualStyleBackColor = true;
+			this.button1.Click += new System.EventHandler(this.button1_Click);
 			// 
 			// MainForm
 			// 
@@ -257,6 +296,7 @@
 		private System.Windows.Forms.DataGridViewTextBoxColumn Distance;
 		private System.Windows.Forms.ComboBox cboDistricts;
 		private System.Windows.Forms.NumericUpDown numProximitySensitivity;
+		private System.Windows.Forms.Button button1;
 	}
 }
 
