@@ -28790,4 +28790,4143 @@
     </Coordinate>
     <Distance>0</Distance>
   </Street>
+  <Street>
+    <Title>Адмиралтейский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/361800</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames>
+      <string>Набережная Рошаля</string>
+    </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.304722222222225</Longtitude>
+      <Latitude>59.937777777777775</Latitude>
+    </Coordinate>
+    <District>Адмиралтейский</District>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Александровский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/239942</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.309444444444445</Longtitude>
+      <Latitude>59.936944444444443</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Балтийский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.298989</Longtitude>
+      <Latitude>59.908132</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Витебский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад имени Говорова</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.316596</Longtitude>
+      <Latitude>59.920451</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дворца Бобринских</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.311574</Longtitude>
+      <Latitude>59.939627</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дворца Великого князя Николая Николаевича (Ксенинский институт)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1297629</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.293</Longtitude>
+      <Latitude>59.932</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дворца Ф.Ф.Юсупова</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/441812</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.298922</Longtitude>
+      <Latitude>59.929389</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Демидовского дома призрения трудящихся</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.579164</Longtitude>
+      <Latitude>59.735423</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Вольного экономического общества</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Воронцовой М.В. (дворца Великой княгини Ксении Александровны)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.253309</Longtitude>
+      <Latitude>59.940947</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Екатерингоф</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/42586</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.26126</Longtitude>
+      <Latitude>59.902844</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Елизаветинской клинической больницы для малолетних детей</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Звенигородской улице</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1498783</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames>
+      <string>Ивановская улица,</string>
+      <string>12-я Рота Семёновского полка,</string>
+      <string>7-я линия,</string>
+      <string>7-я линия Московской части,</string>
+      <string>7-я рота Лейб-Гвардии Семёновского полка</string>
+    </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <District>Адмиралтейский</District>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Измайловский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1798404</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.312777777777779</Longtitude>
+      <Latitude>59.919722222222219</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Измайловском проспекте</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Никольский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.29977</Longtitude>
+      <Latitude>59.922972</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на ул. Марата</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.345557</Longtitude>
+      <Latitude>59.921507</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Мариинского дворца</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Олимпия</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319623</Longtitude>
+      <Latitude>59.912725</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Писаревский сад дворца Великого князя Алексея Александровича</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.432541</Longtitude>
+      <Latitude>59.990759</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Польский сад усадьбы Державина Г.Р.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/362021</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.311111111111114</Longtitude>
+      <Latitude>59.918055555555554</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на пл. Репина</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Рижском пр.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Старо-Петергофском пр.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Старо-Петергофском пр.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Троице-Измайловского собора</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/161808</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305833333333332</Longtitude>
+      <Latitude>59.916111111111107</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Покровский сквер</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.289125</Longtitude>
+      <Latitude>59.918408</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад усадьбы Демидовых</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад экспедиции заготовления государственных бумаг</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Юсуповский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1413443</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>55</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у Академии художеств</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/54969</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад больницы им.святой Марии Магдалины</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ботанический сад Санкт-Петербургского университета</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/425666</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.296111111111113</Longtitude>
+      <Latitude>59.941944444444438</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Василеостровец</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.257226</Longtitude>
+      <Latitude>59.933807</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Веры Слуцкой</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.265149</Longtitude>
+      <Latitude>59.942164</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад "Директорский садик" во дворе Горного института</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.268733</Longtitude>
+      <Latitude>59.929723</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Декабристов</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.239161</Longtitude>
+      <Latitude>59.954205</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Детский при церкви Благовещения Пресвятой Богородицы</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1284266</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.273333333333333</Longtitude>
+      <Latitude>59.946388888888883</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Боссе Г.Э.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Форостовского П.П.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1588999</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.754241</Longtitude>
+      <Latitude>60.240955</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад во дворе дома Яковлевых</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Женского Патриотического института</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у здания Двенадцати Коллегий Санкт-Петербургского университета</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/926985</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.298611111111114</Longtitude>
+      <Latitude>59.941666666666663</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Императорского клинического повивально-гинекологического института (Институт Отта Д. О.)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Камский</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.261134</Longtitude>
+      <Latitude>59.948064</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Опочининский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.239314</Longtitude>
+      <Latitude>59.928135</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад подворья Киево-Печорской лавры (подворья Козельской Свято-Введенской Оптиной пустыни)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад здания Российской Академии</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Румянцевский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.292494</Longtitude>
+      <Latitude>59.938419</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Шкиперский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.242736</Longtitude>
+      <Latitude>59.933221</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Апостолов Петра и Павла</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Больницы ольгинского приюта для детей и женщин в.б.перовской</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк у Верхнего Озера</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад при главном здании Военно-Медицинской академии</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дачи Головина</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.898035</Longtitude>
+      <Latitude>59.885733</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк дачи Фаберже К.Г. (А.К.)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>33.938872</Longtitude>
+      <Latitude>57.926335</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Детской больницы во имя Святого коронования их императорских величеств</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.248045</Longtitude>
+      <Latitude>59.941425</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад казармы лейб-гвардии Московского(Литовского полка)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Лесотехнической академии</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Ивана Фомина</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1593191</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347103</Longtitude>
+      <Latitude>60.052708</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Михайловской больницы</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Орлово-Новосильцевской Богадельни</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Осиновая Роща при усадьбе Лопухиной Е.И. (Левашовых, Вяземских)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сампсониевский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.345809</Longtitude>
+      <Latitude>59.968678</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Серебряный пруд</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1401597</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347222222222221</Longtitude>
+      <Latitude>60.00333333333333</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Сосновка</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/684537</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.351666666666667</Longtitude>
+      <Latitude>60.022777777777776</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк усадьбы Ланских</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Шуваловский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/57349</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.304783</Longtitude>
+      <Latitude>60.076165</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк им. Академика Сахарова</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117574</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>58</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на ул. Верности</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.415635</Longtitude>
+      <Latitude>60.003367</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на углу ул. Верности и ул. Карпинского</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.424124</Longtitude>
+      <Latitude>60.007618</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на углу Гражданского пр. и ул. Верности</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.415635</Longtitude>
+      <Latitude>60.003367</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Безбородко А.А. (Кушелевых-Безбородко)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/207744</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>37.624022</Longtitude>
+      <Latitude>55.766532</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад между ул. Демьяна Бедного, ул. Ольги Форш и пр.Просвещения</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.36912</Longtitude>
+      <Latitude>60.045772</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Любашинский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/108685</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>58</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на ул. Комсомола</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.362356</Longtitude>
+      <Latitude>59.954439</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Кондратьевском пр.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Меншиковском пр.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Муринский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1390221</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.378337</Longtitude>
+      <Latitude>60.031598</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад между пр. Науки и ул. Верности</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.415635</Longtitude>
+      <Latitude>60.003367</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Петроградской узловой железнодорожной больницы</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пионерский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117572</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>58</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пискаревский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117544</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>59</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на углу ул. Руставели и пр. Науки</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.401927</Longtitude>
+      <Latitude>60.011977</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Свердловский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.374834</Longtitude>
+      <Latitude>59.955967</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Технического университета</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.374887</Longtitude>
+      <Latitude>60.004726</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Александрино»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/53901</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.220335</Longtitude>
+      <Latitude>59.845311</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Дачи Е. Р. Дашковой «Кирьяново»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/132749</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.898035</Longtitude>
+      <Latitude>59.885733</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Сиверса(Кировский городок)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1626803</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.408871</Longtitude>
+      <Latitude>59.652844</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Н. П. Шереметьева «Ульянка»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/450073</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Детский парк имени 9 января</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.276989</Longtitude>
+      <Latitude>59.892058</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Равенство»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Молво</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад между ул. Веры Слуцкой и Раумской ул.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.58123</Longtitude>
+      <Latitude>59.741731</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Володарского</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.594768</Longtitude>
+      <Latitude>59.742488</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Городской сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/350964</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>44</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Коммуны</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк культуры и отдыха</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.262275</Longtitude>
+      <Latitude>59.97925</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сквер Октябрьский</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк у стадиона ОАО "УИФК"</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Троицкий сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.603086</Longtitude>
+      <Latitude>59.748033</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Урицкого</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.605503</Longtitude>
+      <Latitude>59.752598</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Полюстровский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117579</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>57</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Бестужевский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.424762</Longtitude>
+      <Latitude>59.981487</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк больницы им. Петра Великого</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.972541</Longtitude>
+      <Latitude>60.091975</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Ветеранов</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>37.530957</Longtitude>
+      <Latitude>55.887019</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Дачи Безобразовых «Жерновка»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/619045</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Заневский парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.412464</Longtitude>
+      <Latitude>59.919446</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ладожский парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.460982</Longtitude>
+      <Latitude>59.941998</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Малиновка»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.46939</Longtitude>
+      <Latitude>59.944395</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Малоохтинский парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.41064</Longtitude>
+      <Latitude>59.932558</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Нева»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/117586</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>57</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Охтинка»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Передовиков</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.46126</Longtitude>
+      <Latitude>59.954962</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на углу ш. Революции и ул. Коммуны</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.494121</Longtitude>
+      <Latitude>59.956732</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на реке Лубья</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1010782</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.46925</Longtitude>
+      <Latitude>59.962472</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на реке Охта</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/39183</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.405861</Longtitude>
+      <Latitude>59.94675</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ржевский лесопарк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1858525</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.516666666666666</Longtitude>
+      <Latitude>59.95</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Уткина дача»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1659730</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.422838</Longtitude>
+      <Latitude>59.934801</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Виельгорских «Павлино»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Макарова «Елизино»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи фон Моллер</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Чидсон</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.408871</Longtitude>
+      <Latitude>59.652844</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Трубецкого</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.408871</Longtitude>
+      <Latitude>59.652844</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Толстого "Марьино"</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.941289</Longtitude>
+      <Latitude>59.835595</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Эсворт(«Литания»)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.408871</Longtitude>
+      <Latitude>59.652844</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Красное Село» (Дворцовый парк)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.090247</Longtitude>
+      <Latitude>59.728075</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Нагорный парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.12812</Longtitude>
+      <Latitude>59.696002</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Нижний Парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.094559</Longtitude>
+      <Latitude>59.734017</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Новознаменка» (дача Воронцова)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Полежаевский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1851717</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>50</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Сосновая Поляна»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/669050</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.134355</Longtitude>
+      <Latitude>59.830676</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Церкви Пресвятой Троицы</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1339142</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.083303</Longtitude>
+      <Latitude>59.726694</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Угольная гавань»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьбы Демидова П.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.290239</Longtitude>
+      <Latitude>60.01999</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьбы Миниха</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Церкви Святого благоверного князя Александра Невского</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1410378</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.085619</Longtitude>
+      <Latitude>59.726694</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Южно-Приморский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/391172</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>51</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Верещагина</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.821516</Longtitude>
+      <Latitude>59.896431</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Владимирского собора</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1289552</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.766314</Longtitude>
+      <Latitude>59.998483</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Военно-морского госпиталя</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Итальянского дворца</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Летний сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1819962</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.33555</Longtitude>
+      <Latitude>59.944855</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Морского Никольского собора</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/370269</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.7775</Longtitude>
+      <Latitude>59.991666666666667</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Первого учебного морского экипажа</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.898699</Longtitude>
+      <Latitude>59.886076</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Петровский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1849313</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.76311</Longtitude>
+      <Latitude>59.98959</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Советский парк (Екатерининский парк)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Братские захоронения</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/380253</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк "Берег р. Сестры"</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.965705</Longtitude>
+      <Latitude>60.103136</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Верхний парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.954287</Longtitude>
+      <Latitude>60.107661</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Бормана Ж.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/667510</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Новикова</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1795503</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.699506</Longtitude>
+      <Latitude>60.196211</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у дома командира Сестрорецкого оружейного завода</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дубки</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/682136</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>37.566359</Longtitude>
+      <Latitude>55.820582</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Инструментальщиков</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Нижний парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.094559</Longtitude>
+      <Latitude>59.734017</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Плодовый сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.418348</Longtitude>
+      <Latitude>59.869282</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Средний парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.953146</Longtitude>
+      <Latitude>60.103791</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьбы Авенариуса П.И.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/694194</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьбы Репина И.Е. "Пенаты"</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/580287</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.867985</Longtitude>
+      <Latitude>60.166771</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Центральный парк культуры и отдыха</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.262275</Longtitude>
+      <Latitude>59.97925</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Авиаторов</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1324791</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>52</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Городов Героев</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1394525</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.327222222222222</Longtitude>
+      <Latitude>59.836666666666666</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Динамо»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.330583</Longtitude>
+      <Latitude>59.888483</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Дубовая роща»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.321357</Longtitude>
+      <Latitude>59.82367</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Колмовский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.318725</Longtitude>
+      <Latitude>59.887169</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Московский парк Победы</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/271650</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.328722</Longtitude>
+      <Latitude>59.869106</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Московский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.321078</Longtitude>
+      <Latitude>59.892888</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Новодевичий сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/440909</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.32138888888889</Longtitude>
+      <Latitude>59.898611111111109</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Пулковской обсерватории</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/221820</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.326047</Longtitude>
+      <Latitude>59.771811</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Рощинский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.321716</Longtitude>
+      <Latitude>59.883498</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Смоленский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.427304</Longtitude>
+      <Latitude>59.901869</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Брестский парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.467037</Longtitude>
+      <Latitude>59.888442</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Заводской сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.432389</Longtitude>
+      <Latitude>59.888167</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ломоносовский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.440294</Longtitude>
+      <Latitude>59.877123</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Молодежный сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Палевский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.41727</Longtitude>
+      <Latitude>59.893218</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк имени И. В. Бабушкина</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1593140</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.44</Longtitude>
+      <Latitude>59.88</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк имени С. А. Есенина</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1593190</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>54</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк на ул. Джона Рида</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.453436</Longtitude>
+      <Latitude>59.919184</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Куракина Дача»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/119108</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>52</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Славянка»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк строителей</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.462015</Longtitude>
+      <Latitude>59.908416</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад имени 30-летия Октября</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.402978</Longtitude>
+      <Latitude>59.91263</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Крупской</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.441435</Longtitude>
+      <Latitude>59.890311</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Печатников</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.468681</Longtitude>
+      <Latitude>59.865971</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Спартак»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.485793</Longtitude>
+      <Latitude>59.85299</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Ткачей</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.429218</Longtitude>
+      <Latitude>59.893764</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Троицкой церкви «Кулич и Пасха»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/691807</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.472619</Longtitude>
+      <Latitude>59.863425</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у Ивановского карьера</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад усадьбы генерала Чернова «Сосновка»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/362898</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.4625</Longtitude>
+      <Latitude>59.875555555555557</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Фонтанчик»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.426945</Longtitude>
+      <Latitude>59.900064</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Смоленский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.427304</Longtitude>
+      <Latitude>59.901869</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Яблоновский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1897311</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.461099</Longtitude>
+      <Latitude>59.926336</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Александровский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/371421</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>57</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Александровского лицея</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/772549</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.316666666666666</Longtitude>
+      <Latitude>59.962222222222223</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Андрея Петрова</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/952585</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames>
+      <string>Дорога на Каменный остров</string>
+      <string>Каменноостровский</string>
+      <string>улица Красных Зорь</string>
+      <string>Кировский проспект</string>
+      <string>Каменноостровский проспект</string>
+      <string>(участок</string>
+      <string>проходящий по Каменному острову не переименовывался)</string>
+    </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.314444444444444</Longtitude>
+      <Latitude>59.964166666666671</Latitude>
+    </Coordinate>
+    <District>Петроградский</District>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у архива Военного министерства</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ботанический сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1366417</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.323611111111109</Longtitude>
+      <Latitude>59.970277777777781</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Вяземский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/627899</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>58</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Дивенский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.318698</Longtitude>
+      <Latitude>59.959147</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Добролюбовский сад (сад Князь-Владимирского собора)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/161602</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.29527777777778</Longtitude>
+      <Latitude>59.951666666666668</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Дома ветеранов сцены им. Савиной М. Г.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/193614</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.255556</Longtitude>
+      <Latitude>59.962611</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Новинских</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347677</Longtitude>
+      <Latitude>59.940371</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Штеймана</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347677</Longtitude>
+      <Latitude>59.940371</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад домика Петра I</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1299964</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.330833333333334</Longtitude>
+      <Latitude>59.953333333333333</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Геслеровский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.304037</Longtitude>
+      <Latitude>59.96852</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Зеленинский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.291335</Longtitude>
+      <Latitude>59.960607</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Института экспериментальной медицины</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/571682</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.310564</Longtitude>
+      <Latitude>59.977331</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Каменоостровского дворца</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/433725</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Колпинский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.296132</Longtitude>
+      <Latitude>59.96007</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Лопухинский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/654221</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305987</Longtitude>
+      <Latitude>59.977026</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Матвеевский сад (Калининский сад)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1558507</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.309185</Longtitude>
+      <Latitude>59.961404</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мытнинский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.303085</Longtitude>
+      <Latitude>59.949704</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ораниенбаумский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.294039</Longtitude>
+      <Latitude>59.961751</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Ортопедического института</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Петровский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1849314</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.276342</Longtitude>
+      <Latitude>59.956949</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Подковыровский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.305924</Longtitude>
+      <Latitude>59.962651</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Приморский парк Победы</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/347319</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>58</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пушкарский (Введенский) сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.327762</Longtitude>
+      <Latitude>59.920848</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Тихий отдых</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.290284</Longtitude>
+      <Latitude>59.977665</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Фруктовый сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.265724</Longtitude>
+      <Latitude>59.972384</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Центральный парк культуры и отдыха имени С. М. Кирова</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/348159</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.262275</Longtitude>
+      <Latitude>59.97925</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Александрийский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1361364</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>52</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Александрия»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/614258</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>52</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Английский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/615332</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>52</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Богадельни</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Верхний сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/16298</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.903888888888886</Longtitude>
+      <Latitude>59.885555555555555</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Верхний парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/16355</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.753956</Longtitude>
+      <Latitude>59.914903</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Госпитальная дача»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Дачи К.Н.Калмыкова</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Л.И.Крона</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.309876</Longtitude>
+      <Latitude>60.013065</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Максимова</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.408871</Longtitude>
+      <Latitude>59.652844</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Дачи Разумовской</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.408871</Longtitude>
+      <Latitude>59.652844</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Дача Шитта»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.724238</Longtitude>
+      <Latitude>59.921065</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк у Дома культуры и науки СПбГУ</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома управляющего Петергофского дворцового управления</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Заячий ремиз</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.878038</Longtitude>
+      <Latitude>59.873361</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад здания Офицерского собрания</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Знаменский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1303352</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Колонистский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/493994</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.908473</Longtitude>
+      <Latitude>59.876034</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Константиновский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/83278</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.059722222222224</Longtitude>
+      <Latitude>59.853611111111114</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Лейхтенбергского</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/681921</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>53</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Летнего отделения Сухопутного госпиталя</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Львовского дворца</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Луговой (Озерковый) парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1314303</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>51</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Михайловский парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.002733</Longtitude>
+      <Latitude>59.86003</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад монастыря Троице-Сергиева пустынь</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/456032</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Мужской гимназии</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Нижний парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/16298</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.903888888888886</Longtitude>
+      <Latitude>59.885555555555555</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Нижний сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/16355</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.753956</Longtitude>
+      <Latitude>59.914903</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Орловский парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.039196</Longtitude>
+      <Latitude>59.850983</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Петровский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/16355</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.753956</Longtitude>
+      <Latitude>59.914903</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Собственная дача»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.850981</Longtitude>
+      <Latitude>59.89714</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьбы адмирала Грейга С.К. «Санс-Эннуи»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Усадьбы Белей</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Усадьбы А.Гейрота</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьба «Дубки»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьбы Зубова «Отрада»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Усадьба Мордвиновых»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьбы принца П. Г. Ольденбургского</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк в Фабричном овраге</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Шунгеровский лесопарк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.055527</Longtitude>
+      <Latitude>59.825741</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у 3-го Елагина моста</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>37.509622</Longtitude>
+      <Latitude>55.84674</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк 300-летия Санкт-Петербурга</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/669027</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.1925</Longtitude>
+      <Latitude>59.983888888888892</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Буддийского храма</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Дачи Шишмарева (Колюбакина)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.898035</Longtitude>
+      <Latitude>59.885733</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у кинотеатра «Юность»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>29.707385</Longtitude>
+      <Latitude>60.197371</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на месте последней дуэли А.С.Пушкина</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1829479</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.301883</Longtitude>
+      <Latitude>59.994961</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у метро "Черная речка"</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.300875</Longtitude>
+      <Latitude>59.98548</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад напротив ЦПКиО</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.262275</Longtitude>
+      <Latitude>59.97925</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Ново-Орловский лесопарк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.282469</Longtitude>
+      <Latitude>60.048058</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Озеро Долгое»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.263694</Longtitude>
+      <Latitude>60.017445</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Пионерский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.324357</Longtitude>
+      <Latitude>59.992456</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Строгановский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/687711</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.303219</Longtitude>
+      <Latitude>59.983722</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Удельного земледельческого училища</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Удельный парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/343427</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.311556</Longtitude>
+      <Latitude>60.007641</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Усадьбы графов Орловых-Денисовых (Граббе)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.290239</Longtitude>
+      <Latitude>60.01999</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Усадьбы Салтыковых</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Юнтоловский лесопарк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/195699</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.200084</Longtitude>
+      <Latitude>60.022153</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Александрова дача</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.423037</Longtitude>
+      <Latitude>59.678603</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Александровский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/614312</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>43</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Баболовский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/342774</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>42</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Большой оранжереи</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.468106</Longtitude>
+      <Latitude>59.963633</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Буферный (Районный) парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.405259</Longtitude>
+      <Latitude>59.744157</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Детский парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Дворцового госпиталя</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на углу ул. Дворцовой и Академического пр.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Дома Теппера де Фергюсона Л. В.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у Египетских ворот</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1301003</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Екатерининский парк</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1301101</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>42</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Лицейский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1546136</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.397148</Longtitude>
+      <Latitude>59.718394</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк «Мариенталь»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.448109</Longtitude>
+      <Latitude>59.681651</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад особняка Кочубея В. П.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/73492</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Отдельный (Нижний) парк</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.426136</Longtitude>
+      <Latitude>59.705495</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Павловский дворцово-парковый ансамбль</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1324347</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.455277777777777</Longtitude>
+      <Latitude>59.69361111111111</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на углу ул. Садовой и Березовой ул.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>37.520258</Longtitude>
+      <Latitude>55.79141</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на углу Садовой и Детскосельской ул.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Храма Святого Иоанна</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1343910</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.399367</Longtitude>
+      <Latitude>59.723017</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк между Бухарестской и Софийской ул.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Воронежский сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.34315</Longtitude>
+      <Latitude>59.910974</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Парк Интернационалистов</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.401424</Longtitude>
+      <Latitude>59.859244</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Новокаменный сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Плодовый сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.418348</Longtitude>
+      <Latitude>59.869282</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Яблоневый сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.36382</Longtitude>
+      <Latitude>59.863437</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад главного двора Александро-Невской лавры</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/34</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.388611111111111</Longtitude>
+      <Latitude>59.919722222222219</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Александровского института</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1829823</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315886</Longtitude>
+      <Latitude>59.962093</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Аничкова дворца</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/16457</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.339722222222221</Longtitude>
+      <Latitude>59.932777777777773</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад ансамбля Страхового общества «Россия»</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Асигнационного банка</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/16700</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.326388888888889</Longtitude>
+      <Latitude>59.931111111111107</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Владимирского собора</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/161553</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.348333333333333</Longtitude>
+      <Latitude>59.928055555555552</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Воронцовского дворца</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/85386</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Барятинских (Великой княгини Ольги Александровны)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347677</Longtitude>
+      <Latitude>59.940371</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Дубянских (Зиновьева Н.В., Карловой Н.Ф.)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347677</Longtitude>
+      <Latitude>59.940371</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Пашкова И.В. (дом Департамента уделов)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347677</Longtitude>
+      <Latitude>59.940371</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Петрово-Соловово (Юсуповой З.Н.)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.347677</Longtitude>
+      <Latitude>59.940371</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад дома Спиридонова Н.В.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/633429</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.366111111111113</Longtitude>
+      <Latitude>59.945277777777775</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Екатерининский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/563178</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames>
+      <string>Аничковская площадь</string>
+      <string>Александринская площадь</string>
+      <string>Театральная площадь</string>
+      <string>Площадь Александринского Театра</string>
+      <string>Площадь Писателя Островского</string>
+    </PreviousNames>
+    <Coordinate>
+      <Longtitude>30.336388888888887</Longtitude>
+      <Latitude>59.9325</Latitude>
+    </Coordinate>
+    <District>Центральный</District>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Екатерининского института (Сад на Литейном)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у Зимнего Дворца</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/37</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.31388888888889</Longtitude>
+      <Latitude>59.940277777777773</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Казарм Преображенского полка (Сад Салтыкова-Щедрина)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.367404</Longtitude>
+      <Latitude>59.943422</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Летний сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/42964</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.335555555555555</Longtitude>
+      <Latitude>59.944722222222218</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Литейном</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Мамкин сад</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Манежной пл.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Мариинской больницы</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/486714</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.349166666666665</Longtitude>
+      <Latitude>59.934999999999995</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Марсово поле</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/72441</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.331944444444446</Longtitude>
+      <Latitude>59.943333333333328</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Митрополичий сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/34</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.388611111111111</Longtitude>
+      <Latitude>59.919722222222219</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад вокруг Михайловского замка</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/135753</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.337639</Longtitude>
+      <Latitude>59.940417</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Михайловский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1318247</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>56</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Мраморного дворца</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1390028</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.326753</Longtitude>
+      <Latitude>59.944847</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Музея Суворова</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/252689</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.376564</Longtitude>
+      <Latitude>59.943175</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Неве</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Павловского института</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад у памятника В. В. Маяковскому</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>33.295481</Longtitude>
+      <Latitude>58.375503</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад парадного двора Воспитательного дома</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/24682</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319444444444443</Longtitude>
+      <Latitude>59.933888888888887</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад парадного двора дворца Разумовского К.Г.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/24682</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319444444444443</Longtitude>
+      <Latitude>59.933888888888887</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад парадного двора дома Штегельмана Г. Х.</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/24682</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319444444444443</Longtitude>
+      <Latitude>59.933888888888887</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад парадного двора Михайловского дворца</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/590607</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.33211</Longtitude>
+      <Latitude>59.938288</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад парадного двора Таврического дворца</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/159667</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.375833333333333</Longtitude>
+      <Latitude>59.947777777777773</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад «Прудки»</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1328682</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>56</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад РГПУ им. Герцена</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/24682</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319444444444443</Longtitude>
+      <Latitude>59.933888888888887</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Санкт-Петербургской Духовной Академии</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/213553</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.383055555555558</Longtitude>
+      <Latitude>59.9175</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад на Соляном пер.</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.390662</Longtitude>
+      <Latitude>59.954606</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Смольного института</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1498952</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.39638888888889</Longtitude>
+      <Latitude>59.946388888888883</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад парадного двора Смольного института</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1498952</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.39638888888889</Longtitude>
+      <Latitude>59.946388888888883</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад-партер Смольного института</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1498952</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.39638888888889</Longtitude>
+      <Latitude>59.946388888888883</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Смольного собора</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/207697</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.395589</Longtitude>
+      <Latitude>59.948875</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Спасо-Преображенского собора</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/160637</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.352500000000003</Longtitude>
+      <Latitude>59.943055555555553</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Старообрядческой общины поморского согласия</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>37.326491</Longtitude>
+      <Latitude>56.876958</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Строгановского дворца</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/105168</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Таврический сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1248887</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>56</Longtitude>
+      <Latitude>59</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад третьей Санкт-петербургской гимназии</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Усадьбы Пеля (Гукасовой)</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад при Училище глухонемых</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/24682</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.319444444444443</Longtitude>
+      <Latitude>59.933888888888887</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Фрунзе (Сангальский сад)</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/13496</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Церкви Воздвижения Креста Господня</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/649744</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Церкви Праведников Симеона Богоприимца и Анны Пророчицы</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/161646</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.345761</Longtitude>
+      <Latitude>59.938608</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Сад Чернышевского</Title>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.315868</Longtitude>
+      <Latitude>59.939095</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
+  <Street>
+    <Title>Шереметьевский сад</Title>
+    <Url>http://dic.academic.ru/dic.nsf/ruwiki/1313816</Url>
+    <Category>Парки</Category>
+    <Letter>0</Letter>
+    <PreviousNames />
+    <Coordinate>
+      <Longtitude>30.345158</Longtitude>
+      <Latitude>59.935911</Latitude>
+    </Coordinate>
+    <Distance>0</Distance>
+  </Street>
 </ArrayOfStreet>

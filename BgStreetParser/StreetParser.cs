@@ -17,6 +17,7 @@ namespace BgStreetParser
 		private const string UrlPrefix = "http://dic.academic.ru/dic.nsf/ruwiki/";
 		private const string StreetsUrl = "http://dic.academic.ru/dic.nsf/ruwiki/348603";
 		private const string BridgesUrl = "http://dic.academic.ru/dic.nsf/ruwiki/1568788";
+		private const string ParksUrl = "http://dic.academic.ru/dic.nsf/ruwiki/117606";
 		private static readonly string CacheDirectory = Path.Combine(Directory.GetCurrentDirectory(), "data");        
 		private string _currCategory = "";
 		private char _currLetter = ' ';
@@ -30,16 +31,44 @@ namespace BgStreetParser
 				Directory.CreateDirectory(CacheDirectory);
 			};
 
-			var http = new WebClient { Encoding = Encoding.UTF8 };
-			var content = http.DownloadString(BridgesUrl);
 			var doc = new HtmlDocument();
-			doc.LoadHtml(content);
+			doc.LoadHtml(DownloadPage(BridgesUrl));
 			var ret = ParseBridges(doc);
 
-			content = http.DownloadString(StreetsUrl);
 			doc = new HtmlDocument();
-			doc.LoadHtml(content);
+			doc.LoadHtml(DownloadPage(StreetsUrl));
 			ret.AddRange(ParseStreets(doc));
+
+			doc = new HtmlDocument();
+			doc.LoadHtml(DownloadPage(ParksUrl));
+			ret.AddRange(ParseParks(doc));
+			return ret;
+		}
+
+		public List<Street> ParseParks(HtmlDocument html)
+		{
+			var elements =
+				html.DocumentNode.SelectNodes(
+					@"//*[@class=""wide sortable""]//tr");
+
+			var ret = new List<Street>();
+			foreach (var el in elements)
+			{
+				var title = el.InnerHtml;
+				var td = el.Element("td");
+				if (td != null)
+				{
+					title = td.InnerText;
+					ret.Add(new Street { 
+						Title = title,
+						Category = "Парки",
+						Url = td.SelectSingleNode("a") == null ? null : UrlPrefix + td.SelectSingleNode("a").GetAttributeValue("href", "zzz")
+					});
+				}
+			}
+
+			Parallel.ForEach(ret, new ParallelOptions { MaxDegreeOfParallelism = 100 }, ParseDetails);
+
 			return ret;
 		}
 
@@ -188,6 +217,23 @@ namespace BgStreetParser
 			{
 				street.Coordinate = GeoUtil.GetCoordinateByCode("Санкт-Петербург," + street.Title);
 			}
+		}
+
+		private static string DownloadPage(string url)
+		{
+			var cacheFile = Path.Combine(CacheDirectory, url.Substring(url.LastIndexOf('/') + 1) + ".html");
+			string contents = null;
+			if (File.Exists(cacheFile))
+			{
+				contents = File.ReadAllText(cacheFile, Encoding.UTF8);
+			}
+			else
+			{
+				var http = new WebClient { Encoding = Encoding.UTF8, };
+				contents = http.DownloadString(url);
+				File.WriteAllText(cacheFile, contents, Encoding.UTF8);
+			}
+			return contents;
 		}
 	}
 
